@@ -7,9 +7,9 @@ if ($_SERVER['SERVER_NAME'] == 'localhost') {
     $password = "";
     $dbname = "Arthro-sql";
 } else {
-    $username = " ";
-    $password = " ";
-    $dbname = " ";
+    $username = "arthro360";
+    $password = "K04eWgzYm4Qyh4x";
+    $dbname = "arthro360";
 }
 
 // Create connection

@@ -6,9 +6,9 @@ if ($_SERVER['SERVER_NAME'] == 'localhost') {
     $pass = "";
     $db = "Arthro-sql";
 } else {
-    $user = " ";
-    $pass = " ";
-    $db = " ";
+    $user = "arthro360";
+    $pass = "K04eWgzYm4Qyh4x";
+    $db = "arthro360";
 }
 
 
