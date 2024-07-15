@@ -9,13 +9,11 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Tripura-Mind-Care - Dashboard</title>
+    <title>Arthro 360</title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
-    <link
-        href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
 
     <!-- Custom styles for this template-->
     <link href="css/sb-admin-2.min.css" rel="stylesheet">
@@ -66,9 +64,7 @@
                         <div class="container">
                             <div class="d-sm-flex align-items-center justify-content-between mb-4">
                                 <h2 class="h2 mb-0 text-info mx-2"> Published Blogs</h2>
-                                <a href="newBlog.php"
-                                    class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"><i
-                                        class="fas fa-download fa-sm text-white-50"></i> Create Blog</a>
+                                <a href="newBlog.php" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"><i class="fas fa-download fa-sm text-white-50"></i> Create Blog</a>
 
                             </div>
 
@@ -76,18 +72,7 @@
 
                                 <?php
                                 // Database connection (replace with your actual database connection details)
-                                $servername = "localhost";
-                                $username = "drakrtripuramind";
-                                $password = "9rTHaMUNGyUaaW1";
-                                $dbname = "drakrtripuramindcareandpolyclinic";
-
-                                // Create connection
-                                $conn = new mysqli($servername, $username, $password, $dbname);
-
-                                // Check connection
-                                if ($conn->connect_error) {
-                                    die("Connection failed: " . $conn->connect_error);
-                                }
+                                include '../../db.connection/db_connection.php';
 
                                 // Fetch blog data
                                 $sql = "SELECT id, title, content, video FROM blog";
@@ -192,11 +177,11 @@
             <footer class="sticky-footer bg-white">
                 <div class="container my-auto">
                     <div class="copyright text-center my-auto">
-                    <div class="footer-widget__copyright">
-              <p class="mini_text" style="color:black"> ©2024 Tripura-Mind-Care . All Rights Reserved. Designed &
-                Developed by <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none;color:black">Bhavi
-                  Creations</a></p>
-            </div>
+                        <div class="footer-widget__copyright">
+                            <p class="mini_text" style="color:black"> ©2024 Arthro 360 . All Rights Reserved. Designed &
+                                Developed by <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none;color:black">Bhavi
+                                    Creations</a></p>
+                        </div>
                     </div>
                 </div>
             </footer>
@@ -214,8 +199,7 @@
     </a>
 
     <!-- Logout Modal-->
-    <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
-        aria-hidden="true">
+    <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
@@ -228,7 +212,7 @@
                 </div>
                 <div class="modal-footer">
                     <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
-                    <a class="btn btn-primary" href="login.html">Logout</a>
+                    <a class="btn btn-primary" href="login.php">Logout</a>
                 </div>
             </div>
         </div>

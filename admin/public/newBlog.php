@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Tripura-Mind-Care - Dashboard</title>
+    <title>Arthro 360</title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -94,26 +94,28 @@
                                         <!-- Create the editor container -->
                                         <label for="exampleFormControlInput1" class="form-label text-primary">ENTER
                                             CONTENT</label>
-                                            <link href="https://cdn.jsdelivr.net/npm/quill@2.0.2/dist/quill.snow.css" rel="stylesheet" />
+                                        <link href="https://cdn.jsdelivr.net/npm/quill@2.0.2/dist/quill.snow.css"
+                                            rel="stylesheet" />
 
-<!-- Create the editor container -->
-<div id="editor" style='height:200px;'>
+                                        <!-- Create the editor container -->
+                                        <div id="editor" style='height:200px;'>
 
-</div>
-<input name="content" id="formcontentdata" style="display: none"></input>
+                                        </div>
+                                        <input name="content" id="formcontentdata" style="display: none"></input>
 
-<!-- Include the Quill library -->
-<script src="https://cdn.jsdelivr.net/npm/quill@2.0.2/dist/quill.js"></script>
+                                        <!-- Include the Quill library -->
+                                        <script src="https://cdn.jsdelivr.net/npm/quill@2.0.2/dist/quill.js"></script>
 
-<!-- Initialize Quill editor -->
-<script>
-  const quill = new Quill('#editor', {
-    theme: 'snow'
-  });
-  document.querySelector('#addblogform').onsubmit = function () {
-                                                document.querySelector('#formcontentdata').value = quill.getSemanticHTML();
-                                            };
-</script>
+                                        <!-- Initialize Quill editor -->
+                                        <script>
+                                        const quill = new Quill('#editor', {
+                                            theme: 'snow'
+                                        });
+                                        document.querySelector('#addblogform').onsubmit = function() {
+                                            document.querySelector('#formcontentdata').value = quill
+                                                .getSemanticHTML();
+                                        };
+                                        </script>
                                         <div class="mb-3">
                                             <label for="formFileMultiple" class="form-label text-primary my-2">Choose
                                                 Photos
@@ -126,7 +128,7 @@
                                                 Video</label>
                                             <input class="form-control" name="video" type="file" id="formFileVideo"
                                                 required>
-                                                
+
                                         </div>
                                         <div class='row p-3'>
                                             <div class='col-xl-7 col-sm-2'></div>
@@ -150,11 +152,13 @@
                 <footer class="sticky-footer bg-white">
                     <div class="container my-auto">
                         <div class="copyright text-center my-auto">
-                        <div class="footer-widget__copyright">
-              <p class="mini_text" style="color:black"> ©2024 Tripura-Mind-Care . All Rights Reserved. Designed &
-                Developed by <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none;color:black">Bhavi
-                  Creations</a></p>
-            </div>
+                            <div class="footer-widget__copyright">
+                                <p class="mini_text" style="color:black"> ©2024 Arthro 360 . All Rights Reserved.
+                                    Designed &
+                                    Developed by <a href="https://bhavicreations.com/" target="_blank"
+                                        style="text-decoration: none;color:black">Bhavi
+                                        Creations</a></p>
+                            </div>
                         </div>
                     </div>
                 </footer>
@@ -185,7 +189,7 @@
                     <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
                     <div class="modal-footer">
                         <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
-                        <a class="btn btn-primary" href="login.html">Logout</a>
+                        <a class="btn btn-primary" href="login.php">Logout</a>
                     </div>
                 </div>
             </div>
