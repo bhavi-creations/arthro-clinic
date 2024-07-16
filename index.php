@@ -1484,12 +1484,16 @@
                              <!-- NEAR NARAYANA JR. COLLEGE<br> -->
 
                          </p>
-                         <!-- <div class="social-links mt-3">
-                             <a href="https://www.facebook.com/akrtripuramindcarepoly?mibextid=LQQJ4d" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
-                             <a href="https://www.instagram.com/dr.akrs_tripura_mind_and_poly?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+                         <div class="social-links mt-3">
+                             <a href="https://www.facebook.com/Artho360clinic" target="_blank" class="facebook"><i
+                                     class="bx bxl-facebook"></i></a>
+                             <a href="https://www.instagram.com/artho360clinic/" target="_blank" class="instagram"><i
+                                     class="bx bxl-instagram"></i></a>
+                             <a href="https://www.youtube.com/@artho360clinic" target="_blank" class="youtube"><i
+                                     class="bx bxl-youtube"></i></a>
 
 
-                         </div> -->
+                         </div>
 
                      </div>
 
