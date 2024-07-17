@@ -5,7 +5,7 @@
      <meta charset="utf-8">
      <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-     <title>Arhtro</title>
+     <title>Arthro</title>
      <meta content="" name="description">
      <meta content="" name="keywords">
 
@@ -14,9 +14,7 @@
      <link href="assets/img/logo/2.png" rel="apple-touch-icon">
 
      <!-- Google Fonts -->
-     <link
-         href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
-         rel="stylesheet">
+     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
      <!-- Vendor CSS Files -->
      <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
@@ -31,9 +29,9 @@
      <link href="assets/css/style.css" rel="stylesheet">
 
      <style>
-     .fnt_wight {
-         font-weight: 600;
-     }
+         .fnt_wight {
+             font-weight: 600;
+         }
      </style>
  </head>
 
@@ -47,12 +45,12 @@
              </a>
              <nav id="navbar" class="navbar order-lg-0 ">
                  <ul>
-                     <li><a class="nav-link scrollto " href="index.php">Home</a></li>
-                     <li><a class="nav-link scrollto  " href="index.php">About</a></li>
-                     <li><a class="nav-link scrollto  " href="index.php">Expertise In</a></li>
-                     <li><a class="nav-link scrollto  " href="index.php">Testimonial</a></li>
+                     <li><a class="nav-link scrollto " href="#home">Home</a></li>
+                     <li><a class="nav-link scrollto  " href="#About">About</a></li>
+                     <li><a class="nav-link scrollto  " href="#Expertise">Expertise In</a></li>
+                     <li><a class="nav-link scrollto  " href="#Testimonial">Testimonial</a></li>
                      <li><a class="nav-link scrollto  " href="blogs.php">Blogs</a></li>
-                     <li><a class="nav-link scrollto " href="index.php">Contact</a></li>
+                     <li><a class="nav-link scrollto " href="#Contact">Contact</a></li>
                  </ul>
                  <i class="bi bi-list mobile-nav-toggle"></i>
              </nav><!-- .navbar -->
@@ -62,7 +60,7 @@
      </header><!-- End Header -->
 
      <!-- ======= Hero Section ======= -->
-     <div id="carouselExampleFade" data-bs-interval="3000" class="carousel slide carousel-fade" data-bs-ride="carousel">
+     <div id="carouselExampleFade home" data-bs-interval="3000" class="carousel slide carousel-fade" data-bs-ride="carousel">
          <div class="carousel-inner cor_med" id="bb">
 
              <div class="carousel-item active ">
@@ -99,16 +97,15 @@
                      <h1 class="">About Us</h1>
                  </div>
 
-                 <div class="row">
+                 <div class="row aboutSections">
 
-                     <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
+                     <div class="col-lg-8 pt-0 pt-lg-0 content" data-aos="fade-left">
 
                          <p class=poetsen_font>
-                             At Dr.Mani's Arthro ClinicConsultant Robotic Joint Replacement and Arthroscopy Surgery
-                             Hospitals specialize in advanced surgical procedures using robotic technology and minimally
-                             invasive techniques to treat joint issues. These hospitals typically offer procedures like
-                             robotic knee and hip replacements, and arthroscopic surgeries for various joints including
-                             the shoulder, knee, and hip.
+                             Dr. P. Manikumar is a highly skilled specialist with extensive expertise in Robotic Knee
+                             Replacement, Robotic Joint Replacement, and Arthroscopy Surgery. His proficiency in these
+                             advanced surgical techniques ensures precise and effective treatment for his patients,
+                             leading to improved outcomes and faster recovery times.
 
 
                          </p>
@@ -202,7 +199,7 @@
 
 
 
-         <section class="my-5">
+         <section class="my-5" id="Expertise">
              <div class="container">
                  <div class="section-title one">
                      <h1>Expertise In</h1>
@@ -214,7 +211,7 @@
                              <div class="card-body robboticcard">
                                  <div class="row">
                                      <div class="col-xl-5">
-                                         <img src="assets/img/ex-1.jpeg" alt="" class=" img-fluid RobReplacement">
+                                         <img src="assets/img/p2.jpeg" alt="" class=" img-fluid RobReplacement">
                                      </div>
                                      <div class="col-xl-7 rob">
                                          <h1 class="RoboticKnees">Robotic Knees Replacement </h1>
@@ -235,13 +232,13 @@
                              <div class="card-body robboticcard">
                                  <div class="row">
                                      <div class="col-xl-5">
-                                         <img src="assets/img/ex-2.jpeg" alt="" class=" img-fluid RobReplacement">
+                                         <img src="assets/img/p1.jpeg" alt="" class=" img-fluid RobReplacement">
                                      </div>
                                      <div class="col-xl-7 rob">
                                          <h1 class="RoboticKnees">Primary
                                              and revision Hip & Knee Arthroplastry</h1>
                                          <p class="RoboticKneesp">We are also highly experienced in both Primary and
-                                             Revision Hip & Knee Arthroplasty. Our clinic has successfully performed
+                                             Revision Hip & Knee Arthroplasty. he has successfully performed
                                              numerous primary arthroplasties, restoring mobility and quality of life for
                                              patients with severe joint conditions. Additionally.
                                          </p>
@@ -255,7 +252,7 @@
                              <div class="card-body robboticcard">
                                  <div class="row">
                                      <div class="col-xl-5">
-                                         <img src="assets/img/ex-3.jpeg" alt="" class=" img-fluid RobReplacement">
+                                         <img src="assets/img/p3.jpeg" alt="" class=" img-fluid RobReplacement">
                                      </div>
                                      <div class="col-xl-7 rob">
                                          <h1 class="RoboticKnees">Arthroscopic Rotator Cuff repair</h1>
@@ -278,7 +275,7 @@
                              <div class="card-body robboticcard">
                                  <div class="row">
                                      <div class="col-xl-5">
-                                         <img src="assets/img/ex-4.jpeg" alt="" class=" img-fluid RobReplacement">
+                                         <img src="assets/img/p4.jpeg" alt="" class=" img-fluid RobReplacement">
                                      </div>
                                      <div class="col-xl-7 rob">
                                          <h1 class="RoboticKnees">Arthroscopic Bankart's repair</h1>
@@ -301,7 +298,7 @@
                              <div class="card-body robboticcard">
                                  <div class="row">
                                      <div class="col-xl-5">
-                                         <img src="assets/img/ex-5.jpeg" alt="" class=" img-fluid RobReplacement">
+                                         <img src="assets/img/p5.jpeg" alt="" class=" img-fluid RobReplacement">
                                      </div>
                                      <div class="col-xl-7 rob">
                                          <h1 class="RoboticKnees">ACL,
@@ -323,13 +320,13 @@
                              <div class="card-body robboticcard">
                                  <div class="row">
                                      <div class="col-xl-5">
-                                         <img src="assets/img/ex-6.jpeg" alt="" class=" img-fluid RobReplacement">
+                                         <img src="assets/img/p6.jpeg" alt="" class=" img-fluid RobReplacement">
                                      </div>
                                      <div class="col-xl-7 rob">
                                          <h1 class="RoboticKnees">Sports
                                              Medicine</h1>
                                          <p class="RoboticKneesp">we are very much professionalized and experienced in
-                                             Sports Medicine. Our clinic is dedicated to the prevention, diagnosis, and
+                                             Sports Medicine. he is dedicated to the prevention, diagnosis, and
                                              treatment of sports-related injuries. We work closely with athletes of all
                                              levels, providing tailored rehabilitation programs and advanced treatment
                                              options to ensure a safe return to sports. </p>
@@ -344,7 +341,7 @@
                              <div class="card-body robboticcard">
                                  <div class="row">
                                      <div class="col-xl-5">
-                                         <img src="assets/img/ex-7.jpeg" alt="" class=" img-fluid RobReplacement">
+                                         <img src="assets/img/p7.jpeg" alt="" class=" img-fluid RobReplacement">
                                      </div>
                                      <div class="col-xl-7 rob">
                                          <h1 class="RoboticKnees">Complex
@@ -1073,6 +1070,60 @@
          </section>
          <!-- End Testimonials Section -->
 
+         <div class="galleryyy">
+             <div class="container">
+                 <div class="section-title one">
+                     <h1>Gallery</h1>
+                 </div>
+                 <div class="row">
+                     <div class="header" id="myHeader">
+                         <!-- <button class="btn active" onclick="two()">2</button> -->
+                         <!-- <button class="btn" onclick="four()">4</button> -->
+                     </div>
+
+                     <!-- Photo Grid -->
+                     <div class="row gridGallery">
+                         <div class="column">
+                             <img src="assets/img/s1.png" style="width:100%">
+                             <img src="assets/img/p2.jpeg" style="width:100%">
+                             <img src="assets/img/a1.jpg" style="width:100%">
+                             <img src="assets/img/s3.jpg" style="width:100%">
+                             <!--  -->
+                         </div>
+                         <div class="column">
+                             <img src="assets/img/p1.jpeg" style="width:100%">
+                             <img src="assets/img/p3.jpeg" style="width:100%">
+                             <img src="assets/img/s2.jpg" style="width:100%">
+                             <img src="assets/img/p5.jpeg" style="width:100%">
+                             <!-- <img src="assets/img/p6.jpeg" style="width:100%"> -->
+                             <!-- <img src="assets/img/p7.jpeg" style="width:100%"> -->
+                         </div>
+                         <div class="column">
+                             <img src="assets/img/a2.jpg" style="width:100%">
+                             <img src="assets/img/p4.jpeg" style="width:100%">
+                             <!-- <img src="assets/img/b3.jpg" style="width:100%"> -->
+                             <img src="assets/img/b2.jpg" style="width:100%">
+
+                         </div>
+                         <div class="column">
+                             <img src="assets/img/b4.jpg" style="width:100%">
+                             <img src="assets/img/b1.jpg" style="width:100%">
+                             <img src="assets/img/a3.jpg" style="width:100%">
+                             <!-- <img src="assets/img/b5.jpg" style="width:100%"> -->
+                             <!-- <img src="assets/img/b6.jpg" style="width:100%"> -->
+                         </div>
+                     </div>
+                 </div>
+             </div>
+         </div>
+
+
+
+
+
+
+
+
          <!-- ======= Appointment Section ======= -->
 
          <section id="Appointment" class="appointment section-bg mt-5 pt-5 pb-5">
@@ -1083,26 +1134,21 @@
                          <div class="section-title one">
                              <h1>Make an Appointment</h1>
                          </div>
-                         <form action="appointmentform.php" method="post" role="form" class="php-email-form"
-                             data-aos="fade-up" data-aos-delay="100">
+                         <form action="appointmentform.php" method="post" role="form" class="php-email-form" data-aos="fade-up" data-aos-delay="100">
                              <div class="row">
                                  <div class="col-md-4 form-group">
-                                     <input type="text" name="name" class="form-control" id="name"
-                                         placeholder="Your Name" required>
+                                     <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
                                  </div>
                                  <div class="col-md-4 form-group mt-3 mt-md-0">
-                                     <input type="email" class="form-control" name="email" id="email"
-                                         placeholder="Your Email" required>
+                                     <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
                                  </div>
                                  <div class="col-md-4 form-group mt-3 mt-md-0">
-                                     <input type="tel" class="form-control" name="phone" id="phone"
-                                         placeholder="Your Phone" required>
+                                     <input type="tel" class="form-control" name="phone" id="phone" placeholder="Your Phone" required>
                                  </div>
                              </div>
                              <div class="row">
                                  <div class="col-md-6 form-group mt-3">
-                                     <input type="date" name="date" class="form-control datepicker" id="date"
-                                         placeholder="Appointment Date" required>
+                                     <input type="date" name="date" class="form-control datepicker" id="date" placeholder="Appointment Date" required>
                                  </div>
                                  <div class="col-md-6 form-group mt-3">
                                      <select name="department" id="department" class="form-select" required>
@@ -1129,8 +1175,7 @@
                              </div>
 
                              <div class="form-group mt-3">
-                                 <textarea class="form-control" name="message" rows="5"
-                                     placeholder="Message (Optional)"></textarea>
+                                 <textarea class="form-control" name="message" rows="5" placeholder="Message (Optional)"></textarea>
                              </div>
                              <div class="my-3">
                                  <div class="loading">Loading</div>
@@ -1142,10 +1187,7 @@
                      </div>
                      <div class="col-md-5">
                          <div class="mappp">
-                             <iframe
-                                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3816.1346016020084!2d82.23436107515543!3d16.967928183849477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a382929e644d227%3A0xd518fad7d899f9b7!2sDr%20Mani&#39;s%20ARTHRO%20360%C2%B0%20Robotic%20Joint%20Replacement%20and%20Arthroscopy%20Clinic!5e0!3m2!1sen!2sin!4v1720863632969!5m2!1sen!2sin"
-                                 width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                                 referrerpolicy="no-referrer-when-downgrade"></iframe>
+                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3816.1346016020084!2d82.23436107515543!3d16.967928183849477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a382929e644d227%3A0xd518fad7d899f9b7!2sDr%20Mani&#39;s%20ARTHRO%20360%C2%B0%20Robotic%20Joint%20Replacement%20and%20Arthroscopy%20Clinic!5e0!3m2!1sen!2sin!4v1720863632969!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
                          </div>
@@ -1155,6 +1197,56 @@
 
              </div>
          </section>
+
+
+
+
+
+         <section>
+             <div class="container mt-5 mb-5">
+                 <div class="row">
+                     <div class="section-title one">
+                         <h1>Our Latest Blogs</h1>
+                     </div>
+
+
+                     <?php
+                        include './db.connection/db_connection.php';
+                        // Fetch latest 3 blogs
+                        $sql = "SELECT * FROM blog ORDER BY time DESC LIMIT 3";
+                        $result = $conn->query($sql); ?>
+
+                     <?php while ($row = $result->fetch_assoc()) : ?>
+                         <div class="col-12 col-md-4 px-5 py-2">
+                             <div class="card h-100">
+                                 <video class="custom-video" autoplay muted controls style="width: 100%; height: auto">
+                                     <source src="admin/public/uploads/videos/<?php echo $row['video']; ?>" type="video/mp4" />
+                                     Your browser does not support the video tag.
+                                 </video>
+                                 <div class="card-body blogBody">
+                                     <h5 class="card-title bT"><?php echo $row['title']; ?></h5>
+                                 </div>
+
+                                 <div class="card-footer BlogFoot">
+                                     <small class="text-muted Bf">Posted On:
+                                         <?php echo date("F j, Y, g:i a", strtotime($row['time'])); ?></small>
+                                 </div>
+                             </div>
+                         </div>
+                     <?php endwhile; ?>
+
+                     <div class="d-flex flex-row justify-content-center mt-4">
+                         <a href="blogs.php">
+                             <p class="view_more_btn d-md-none">
+                                 View More<i class="fa-solid fa-arrow-right"></i>
+                             </p>
+                         </a>
+                     </div>
+                 </div>
+             </div>
+         </section>
+
+
 
          <!-- End Appointment Section -->
 
@@ -1326,26 +1418,21 @@
                          <form action="contactform .php" method="post" role="form" class="php-email-form">
                              <div class="row">
                                  <div class="col-md-6 form-group">
-                                     <input type="text" name="contactname" class="form-control" id="name"
-                                         placeholder="Your Name" required="">
+                                     <input type="text" name="contactname" class="form-control" id="name" placeholder="Your Name" required="">
                                  </div>
                                  <div class="col-md-6 form-group mt-3 mt-md-0">
-                                     <input type="email" class="form-control" name="contactemail" id="email"
-                                         placeholder="Your Email" required="">
+                                     <input type="email" class="form-control" name="contactemail" id="email" placeholder="Your Email" required="">
                                  </div>
 
                                  <div class="col-md-6 form-group mt-3">
-                                     <input type="text" class="form-control" name="contactsubject" id="subject"
-                                         placeholder="Subject">
+                                     <input type="text" class="form-control" name="contactsubject" id="subject" placeholder="Subject">
                                  </div>
                                  <div class="col-md-6 form-group mt-3">
-                                     <input type="text" class="form-control" name="contactnumber" id="number"
-                                         placeholder="Phone" required="">
+                                     <input type="text" class="form-control" name="contactnumber" id="number" placeholder="Phone" required="">
                                  </div>
                              </div>
                              <div class="form-group mt-3">
-                                 <textarea class="form-control" name="contactmessage" rows="7" placeholder="Message"
-                                     required=""></textarea>
+                                 <textarea class="form-control" name="contactmessage" rows="7" placeholder="Message" required=""></textarea>
                              </div>
                              <div class="my-3">
                                  <div class="loading">Loading</div>
@@ -1375,13 +1462,11 @@
 
                      <div class="col-xl-4 col-lg-3 col-md-6 d-flex flex-column justify-content-center">
                          <div class="footer-info d-none d-xl-block">
-                             <a href="index.php" class="logo me-auto "><img src="assets/img/logo/2.png"
-                                     style="height:150px;" alt=""></a>
+                             <a href="index.php" class="logo me-auto "><img src="assets/img/logo/2.png" style="height:150px;" alt=""></a>
 
                          </div>
                          <div class="footer-info d-block d-xl-none">
-                             <a href="index.php" class="logo me-auto "><img src="assets/img/logo/2.png"
-                                     class="img-fluid" alt=""></a>
+                             <a href="index.php" class="logo me-auto "><img src="assets/img/logo/2.png" class="img-fluid" alt=""></a>
 
                          </div>
                      </div>
@@ -1485,12 +1570,9 @@
 
                          </p>
                          <div class="social-links mt-3">
-                             <a href="https://www.facebook.com/Artho360clinic" target="_blank" class="facebook"><i
-                                     class="bx bxl-facebook"></i></a>
-                             <a href="https://www.instagram.com/artho360clinic/" target="_blank" class="instagram"><i
-                                     class="bx bxl-instagram"></i></a>
-                             <a href="https://www.youtube.com/@artho360clinic" target="_blank" class="youtube"><i
-                                     class="bx bxl-youtube"></i></a>
+                             <a href="https://www.facebook.com/Artho360clinic" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+                             <a href="https://www.instagram.com/artho360clinic/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+                             <a href="https://www.youtube.com/@artho360clinic" target="_blank" class="youtube"><i class="bx bxl-youtube"></i></a>
 
 
                          </div>
@@ -1501,16 +1583,25 @@
              </div>
          </div>
 
+
+
+
+
+
+
+
+
+
+
          <div class="footer-area-bottom theme-bg">
              <div class="container">
                  <div class="row  pt-4">
                      <div class="col-xl-8 col-lg-9 col-md-12 col-12">
                          <div class="footer-widget__copyright">
-                             <p class="mini_text" style="color:#ffffff"> ©2024 Dr.Mani's Arthro Clinic. All Rights
+                             <p class="mini_text" style="color:#ffffff"> ©2024 Dr.P.Manikumar. All Rights
                                  Reserved.
                                  Designed &
-                                 Developed by <a href="https://bhavicreations.com/" target="_blank"
-                                     style="text-decoration: none;color:#ffffff">Bhavi
+                                 Developed by <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none;color:#ffffff">Bhavi
                                      Creations</a></p>
                          </div>
                      </div>
@@ -1538,53 +1629,52 @@
      <button id="scrollBtn" onclick="scrollToTop()"><i class="fa-solid fa-arrow-up "></i></button>
 
      <script>
-     // Function to scroll to the top of the page
-     function scrollToTop() {
-         window.scrollTo({
-             top: 0,
-             behavior: 'smooth' // Optional, smooth scrolling animation
-         });
-     }
-
-     // Show scroll button when scrolling down
-     window.onscroll = function() {
-         scrollFunction()
-     };
-
-     function scrollFunction() {
-         if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-             document.getElementById("scrollBtn").style.display = "block";
-         } else {
-             document.getElementById("scrollBtn").style.display = "none";
+         // Function to scroll to the top of the page
+         function scrollToTop() {
+             window.scrollTo({
+                 top: 0,
+                 behavior: 'smooth' // Optional, smooth scrolling animation
+             });
          }
-     }
+
+         // Show scroll button when scrolling down
+         window.onscroll = function() {
+             scrollFunction()
+         };
+
+         function scrollFunction() {
+             if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                 document.getElementById("scrollBtn").style.display = "block";
+             } else {
+                 document.getElementById("scrollBtn").style.display = "none";
+             }
+         }
      </script>
 
      <style>
-     #scrollBtn {
-         display: none;
-         /* Initially hide the button */
-         position: fixed;
-         /* Fix the position of the button */
-         bottom: 20px;
-         /* Adjust the bottom distance */
-         right: 20px;
-         /* Adjust the right distance */
-         z-index: 999;
-         /* Set a high z-index to ensure the button is on top */
-         padding: 10px 15px;
-         background-color: #01539D;
-         ;
-         color: white;
-         border: none;
-         border-radius: 50%;
-         cursor: pointer;
-     }
+         #scrollBtn {
+             display: none;
+             /* Initially hide the button */
+             position: fixed;
+             /* Fix the position of the button */
+             bottom: 20px;
+             /* Adjust the bottom distance */
+             right: 20px;
+             /* Adjust the right distance */
+             z-index: 999;
+             /* Set a high z-index to ensure the button is on top */
+             padding: 10px 15px;
+             background-color: #01539D;
+             ;
+             color: white;
+             border: none;
+             border-radius: 50%;
+             cursor: pointer;
+         }
      </style>
 
 
-     <a href="https://api.whatsapp.com/send?phone=919494680890" style="color: #fff;" class="whatsapp-link"
-         target="_blank">
+     <a href="https://api.whatsapp.com/send?phone=919494680890" style="color: #fff;" class="whatsapp-link" target="_blank">
          <i class="fab fa-whatsapp"></i>
      </a>
 
@@ -1603,10 +1693,47 @@
      <!-- Template Main JS File -->
      <script src="assets/js/main.js"></script>
      <script>
-     $('li').click(function() {
-         $('li').removeClass('active');
-         $(this).addClass('active');
-     });
+         $('li').click(function() {
+             $('li').removeClass('active');
+             $(this).addClass('active');
+         });
+     </script>
+     <script>
+         // Get the elements with class="column"
+         var elements = document.getElementsByClassName("column");
+
+         // Declare a loop variable
+         var i;
+
+         // Full-width images
+
+
+         // Two images side by side
+         function two() {
+             for (i = 0; i < elements.length; i++) {
+                 elements[i].style.msFlex = "30%"; // IE10
+                 elements[i].style.flex = "30%";
+             }
+         }
+
+         // Four images side by side
+         function four() {
+             for (i = 0; i < elements.length; i++) {
+                 elements[i].style.msFlex = "25%"; // IE10
+                 elements[i].style.flex = "25%";
+             }
+         }
+
+         // Add active class to the current button (highlight it)
+         var header = document.getElementById("myHeader");
+         var btns = header.getElementsByClassName("btn");
+         for (var i = 0; i < btns.length; i++) {
+             btns[i].addEventListener("click", function() {
+                 var current = document.getElementsByClassName("active");
+                 current[0].className = current[0].className.replace(" active", "");
+                 this.className += " active";
+             });
+         }
      </script>
  </body>
 
