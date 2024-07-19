@@ -1,4 +1,5 @@
 <?php
+
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
@@ -32,7 +33,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         // Recipients
         $mail->setFrom('artho360clinic@gmail.com', ' Arthro-360'); // Your Gmail email and name
         $mail->addAddress('artho360clinic@gmail.com', 'Arthro-360'); // Recipient's email and name
-       
+
         // Content
         $mail->isHTML(true);
         $mail->Subject = 'New Message from Contact Form';
@@ -43,7 +44,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <p><strong>Email:</strong> $contactemail</p>
             <p><strong>Subject:</strong> $contactsubject</p>
             <p><strong>Phone:</strong> $contactnumber</p>
-            <p><strong>Message:</strong><br>$contactmessage</p>
+            <p><strong>Message:</strong>  $contactmessage</p>
         ";
 
         $mail->send();
@@ -55,4 +56,3 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // If accessed directly without POST data
     echo 'Access Denied';
 }
-?>

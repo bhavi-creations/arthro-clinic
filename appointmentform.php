@@ -1,4 +1,5 @@
 <?php
+
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
@@ -12,7 +13,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $email = $_POST['email'] ?? '';
     $date = $_POST['date'] ?? '';
     $department = $_POST['department'] ?? '';
-    $doctor = $_POST['doctor'] ?? '';
+
     $message = $_POST['message'] ?? '';
 
 
@@ -44,13 +45,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <p><strong>Email:</strong> $email</p>
             <p><strong>Date:</strong> $date</p>
             <p><strong>Department:</strong> $department</p>
-            <p><strong>Doctor:</strong> $doctor</p>
-            <p><strong>Message:</strong><br>$message</p>
+            <p><strong>Message:</strong> $message</p>
         ";
 
         $mail->send();
         echo '<script> window.alert("Message has been sent.\n\nPlease click OK."); window.location.href="index.php";</script>';
-
     } catch (Exception $e) {
         echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
     }
@@ -58,6 +57,3 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // If accessed directly without POST data
     echo 'Access Denied';
 }
-
-
-?>
