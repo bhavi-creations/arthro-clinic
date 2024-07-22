@@ -96,7 +96,7 @@
          <section id="About" class="about mt-5">
              <div class="container" data-aos="fade-up">
 
-                 <div class="section-title one">
+                 <div class="section-title one  only_margin_btm"  >
                      <h1 class="">About Us</h1>
                  </div>
 
@@ -1135,7 +1135,7 @@
                  <div class="row">
                      <div class="col-md-7">
                          <div class="section-title one">
-                             <h1>Make an Appointment</h1>
+                             <h1 class="appoitment_text_size">Make an Appointment</h1>
                          </div>
                          <form action="appointmentform.php" method="post" role="form" class="php-email-form"
                              data-aos="fade-up" data-aos-delay="100">
@@ -1225,7 +1225,7 @@
              <div class="container mt-5 mb-5">
                  <div class="row">
                      <div class="section-title one">
-                         <h1>Our Latest Blogs</h1>
+                         <h1 class="latest_blogs_text_size">Our Latest Blogs</h1>
                      </div>
 
 

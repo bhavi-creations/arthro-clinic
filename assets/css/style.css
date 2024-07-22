@@ -2125,6 +2125,7 @@ button.Appointment:hover {
   content: "";
   position: relative;
   margin-top: 5px;
+  
   left: 1%;
   margin-left: -15px;
   background-color: #87d8fd;
@@ -2363,3 +2364,27 @@ small.text-muted.Bf {
   color: white !important;
   text-align: center !important;
 }
+
+@media (max-width:1200px) {
+  
+  .only_margin_btm{
+    margin-bottom: 50px;
+  }
+}
+@media (min-width:768px) and (max-width:992px) {
+  
+.appoitment_text_size{
+font-size: 30px;
+}
+}
+
+@media (max-width:768px)   {
+  
+  .appoitment_text_size{
+  font-size: 27px;
+  }
+  .latest_blogs_text_size{
+  font-size: 34px;
+
+  }
+  }
