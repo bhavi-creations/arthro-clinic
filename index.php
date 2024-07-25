@@ -111,28 +111,34 @@
                              (Joint Replacement) and Arthroscopy ( Key Hole Surgeries).
 
 
+
                          </p>
                          <ul>
                              <li class="para_font"><i class="bi bi-check-circle"></i>M.B.B.S from Government Medical
-                                 College, Srikakulam, Andhra Pradesh.
+                                 College, Srikakulam, Andhra Pradesh
+                                 .
 
                              </li>
                              <li class="para_font"><i class="bi bi-check-circle"></i>M.S (Orthopaedics) from Rangaraya
                                  Medical College, Kakinada, Andhra Pradesh
+
                                  .
 
                              </li>
-                             <li class="para_font"><i class="bi bi-check-circle"></i>Fellowship in Joint Replacement
-                                 (FIJR) from Srikara Hospitals, Hyderabad
+                             <li class="para_font"><i class="bi bi-check-circle"></i>Depuy Fellowship in Joint
+                                 Replacement (FIJR) from Srikara Hospitals, Hyderabad
+
                                  .
 
                              </li>
-                             <li class="para_font"><i class="bi bi-check-circle"></i>Fellowship in Shoulder Surgery,
-                                 Arthroscopy and Sports Medicine from KIMS-Sunshine Hospitals, Hyderabad .
+                             <li class="para_font"><i class="bi bi-check-circle"></i>Smith and Nephew Fellowship in
+                                 Shoulder Surgery, Arthroscopy and Sports Medicine from KIMS-Sunshine Hospitals,
+                                 Hyderabad
+                                 .
 
                              </li>
-                             <li class="para_font"><i class="bi bi-check-circle"></i>Fellowship in Robotic Joint
-                                 Replacement (FIRJR) from Apollo Hospitals.
+                             <li class="para_font"><i class="bi bi-check-circle"></i>Smith and Nephew Fellowship in
+                                 Robotic Joint Replacement (FIRJR) from Apollo Hospitals..
 
                              </li>
                          </ul>
@@ -1647,20 +1653,16 @@
                              <span class="phone_email"> <strong>Email:</strong></span> <span class="mini_text">
                                  drpmanikumar@gmail.com</span> <br>
                          </p>
-                         <p class="mt-4 mini_text">
+                         <a href="https://maps.app.goo.gl/JFiRy7SuoXiDd9qJ7" class="mini_text">
+                             <p class="mt-4 mini_text">
 
-                             2nd Floor,
-                             <br> Aadhya Scan Center,<br>
-                             Chinta Vari Street,<br>
-                             Bhanugudi Junction,<br>
+                                 1st Floor , Quality Care Diagnostics 2-34-8/1 , Chinta Vari Street, Jn, opp. St
+                                 Anthony's High School, Bhanugudi Junction, Kakinada, Andhra Pradesh 533003
 
+                                 <!-- NEAR NARAYANA JR. COLLEGE<br> -->
 
-
-                             Kakinada-03
-                             <br>
-                             <!-- NEAR NARAYANA JR. COLLEGE<br> -->
-
-                         </p>
+                             </p>
+                         </a>
                          <div class="social-links mt-3">
                              <a href="https://www.facebook.com/Artho360clinic" target="_blank" class="facebook"><i
                                      class="bx bxl-facebook"></i></a>

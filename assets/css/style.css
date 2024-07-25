@@ -1880,6 +1880,7 @@ section {
   font-family: "Poppins";
 
   font-weight: 700;
+  color: #555555;
 }
 
 .phone_email {
@@ -2347,9 +2348,8 @@ img.d-block.img-fluid.s1 {
   display: flex;
   -ms-flex-wrap: wrap; /* IE 10 */
   flex-wrap: wrap;
-   padding-left: 40px;
+  padding-left: 40px;
 }
-
 
 .card-body.blogBody {
   background: #f6e9f3;
@@ -2413,10 +2413,8 @@ p.solution {
   margin-bottom: 30px;
 }
 
-@media (max-width:768px) {
-  
-  
-  #why_cjoosr{
+@media (max-width: 768px) {
+  #why_cjoosr {
     font-size: 34px !important;
   }
 }
