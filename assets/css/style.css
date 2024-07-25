@@ -2493,3 +2493,13 @@ li.solution {
   font-size: 16px;
   color: #153860;
 }
+
+@media (max-width:768px) {
+  
+  #change_text_size{
+    font-size: 36px;
+  }
+  #choose_us{
+font-size: 35px;
+  }
+}
