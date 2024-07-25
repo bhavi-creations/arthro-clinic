@@ -1086,7 +1086,7 @@
              <div class="container" data-aos="fade-up">
 
                  <div class="section-title one">
-                     <h1>Why Choose Us ?</h1>
+                     <h1 id="why_cjoosr">Why Choose Us ?</h1>
                  </div>
                  <div class="row spine360 mb-5 mt-2">
                      <div class="col-md-12 spineCol" data-aos="fade-left">

@@ -2347,8 +2347,10 @@ img.d-block.img-fluid.s1 {
   display: flex;
   -ms-flex-wrap: wrap; /* IE 10 */
   flex-wrap: wrap;
-  padding: 0 4px;
+   padding-left: 40px;
 }
+
+
 .card-body.blogBody {
   background: #f6e9f3;
 }
@@ -2409,4 +2411,12 @@ p.solution {
   font-weight: 500;
   margin-left: 30px;
   margin-bottom: 30px;
+}
+
+@media (max-width:768px) {
+  
+  
+  #why_cjoosr{
+    font-size: 34px !important;
+  }
 }
