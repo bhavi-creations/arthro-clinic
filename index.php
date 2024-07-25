@@ -96,7 +96,7 @@
          <section id="About" class="about mt-5">
              <div class="container" data-aos="fade-up">
 
-                 <div class="section-title one  only_margin_btm"  >
+                 <div class="section-title one  only_margin_btm">
                      <h1 class="">About Us</h1>
                  </div>
 
@@ -105,36 +105,38 @@
                      <div class="col-lg-8 pt-0 pt-lg-0 content" data-aos="fade-left">
 
                          <p class=poetsen_font>
-                             Dr. P. Manikumar is a highly skilled specialist with extensive expertise in Robotic Knee
-                             Replacement, Robotic Joint Replacement, and Arthroscopy Surgery. His proficiency in these
-                             advanced surgical techniques ensures precise and effective treatment for his patients,
-                             leading to improved outcomes and faster recovery times.
+                             Dr. P. Manikumar's expertise in Orthopaedics has helped many patients receive the best
+                             quality care. He is the first Orthopaedic Surgeon who is fellowship trained in Robotic
+                             Joint Replacement in Godavari Districts. He is fellowship trained in both Arthroplasty
+                             (Joint Replacement) and Arthroscopy ( Key Hole Surgeries).
 
 
                          </p>
                          <ul>
-                             <li class="para_font"><i class="bi bi-check-circle"></i>Precision and Accuracy:
-                                 Robotic-assisted surgery allows for highly precise placement of implants, which can
-                                 lead to better alignment and improved function.
-                             </li>
-                             <li class="para_font"><i class="bi bi-check-circle"></i>Minimally Invasive: These
-                                 procedures are often less invasive than traditional surgeries, resulting in smaller
-                                 incisions, less pain, and quicker recovery times.
+                             <li class="para_font"><i class="bi bi-check-circle"></i>M.B.B.S from Government Medical
+                                 College, Srikakulam, Andhra Pradesh.
 
                              </li>
-                             <li class="para_font"><i class="bi bi-check-circle"></i>Customization: Pre-operative
-                                 planning and intra-operative adjustments are tailored to the patient’s specific
-                                 anatomy, leading to better outcomes.
+                             <li class="para_font"><i class="bi bi-check-circle"></i>M.S (Orthopaedics) from Rangaraya
+                                 Medical College, Kakinada, Andhra Pradesh
+                                 .
+
+                             </li>
+                             <li class="para_font"><i class="bi bi-check-circle"></i>Fellowship in Joint Replacement
+                                 (FIJR) from Srikara Hospitals, Hyderabad
+                                 .
+
+                             </li>
+                             <li class="para_font"><i class="bi bi-check-circle"></i>Fellowship in Shoulder Surgery,
+                                 Arthroscopy and Sports Medicine from KIMS-Sunshine Hospitals, Hyderabad .
+
+                             </li>
+                             <li class="para_font"><i class="bi bi-check-circle"></i>Fellowship in Robotic Joint
+                                 Replacement (FIRJR) from Apollo Hospitals.
 
                              </li>
                          </ul>
-                         <p class="para_font">
-                             Enhanced Visualization: Arthroscopy provides high-definition images of the joint, enabling
-                             surgeons to diagnose and treat issues with greater clarity.
 
-
-
-                         </p>
 
                      </div>
                      <div class="col-lg-4 mt-5 pe-2" data-aos="fade-right">
@@ -156,6 +158,15 @@
                      <div class="section-title  mt-1 pt-2">
                          <h1 class="Consultanttt">Dr.P.Manikumar</h1>
                          <p class="Consultant">Consultant Robotic Joint Replacement & Arthroscopy Surgeon</p>
+                         <p class="para_font mt-4">
+                             Dr Mani's ARTHRO 360° is one stop solution for all Orthopaedic Problems established in the
+                             heart of Kakinada smart city with an idea to deliver exceptional care and treatment to the
+                             patients. With extensive expertise we are dedicated in improving patient's quality of life
+                             and addressing a wide range of problems from Joint Preservation to Joint Replacement. The
+                             best possible results for patient's needs will be provided. Consultations are provided in a
+                             safe, hygienic, well equipped place located at Quality care diagnostics, beside Anand
+                             theatre, Kakinada.
+                         </p>
                      </div>
 
                      <div class="row text-center">
@@ -1071,6 +1082,48 @@
 
              </div>
          </section>
+         <section id="" class="testimonials">
+             <div class="container" data-aos="fade-up">
+
+                 <div class="section-title one">
+                     <h1>Why Choose Us ?</h1>
+                 </div>
+                 <div class="row spine360 mb-5 mt-2">
+                     <div class="col-md-12 spineCol" data-aos="fade-left">
+                         <h4 class="why_spine">
+                             Specialized Doctors
+
+                         </h4>
+                         <p class="solution "> <i class="fa-solid fa-check"></i> We are certified and have received
+                             advanced training in a variety of Orthopaedic specialty areas. We are up-to-date with the
+                             most current treatment programs and technologies, which means we are able to provide the
+                             best care for a wide range of specific illnesses and conditions.
+
+                         </p>
+                         <h4 class="why_spine">
+                             Quality Standards
+
+                         </h4>
+                         <p class="solution "> <i class="fa-solid fa-check"></i> We strive to provide the patients with
+                             the best possible yet economical care and treatment. In essence, total patient care is the
+                             drive that propels us ahead on the path of bringing joy on the faces of people in need.
+
+                         </p>
+                         <h4 class="why_spine">
+                             Competitive Price
+
+                         </h4>
+                         <p class="solution "> <i class="fa-solid fa-check"></i> We aim to provide best possible medical
+                             care in the lowest cost possible. We have low competitive price and best quality assured.
+                             We have various packages for various surgeries and offer best yet economical medical
+                             treatments
+                         </p>
+                     </div>
+                 </div>
+
+
+             </div>
+         </section>
          <!-- End Testimonials Section -->
 
          <div class="galleryyy">
@@ -1417,7 +1470,7 @@
                                              <div class="info-boxx mt-4">
                                                  <i class="bx bx-phone-call"></i>
                                                  <!-- <h3>Call Us</h3> -->
-                                                 <p>+91 9494680890 /
+                                                 <p>
                                                      +91 9974922749</p>
                                              </div>
                                          </div>
@@ -1536,22 +1589,35 @@
                          <ul>
                              <li>
                                  <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Robotic Knees Replacement</a>
+                                 <a href=" #facilities">Fractures
+                                     Pelviacetabular trauma
+                                     Non Unions
+                                     Deformity corrections</a>
                              </li>
                              <li>
                                  <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Primary
-                                     and revision Hip & Knee Arthroplastry</a>
+                                 <a href=" #facilities">Primary and Revision Joint replacement Knee replacement pic
+                                     Hip replacement pic
+                                     Shoulder replacement pic </a>
                              </li>
                              <li>
                                  <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Arthroscopic Rotator Cuff repair</a>
+                                 <a href=" #facilities">Arthroscopy and Sports Medicine
+                                     ACL reconstruction
+                                     PCL reconstruction
+                                     MCL and LCL reconstruction
+                                     Meniscus Surgery
+                                     Rotator cuff repair
+                                     Bankart's repair
+                                     SLAP repair</a>
                              </li>
                              <li>
                                  <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Arthroscopic Bankart's repair</a>
+                                 <a href=" #facilities">Ortho biologics
+                                     Prp treatments
+                                     BMAC procedures</a>
                              </li>
-                             <li>
+                             <!-- <li>
                                  <i class="bx bx-chevron-right"></i>
                                  <a href=" #facilities">ACL,
                                      PCL
@@ -1567,7 +1633,7 @@
                                  <i class="bx bx-chevron-right"></i>
                                  <a href=" #facilities">Complex
                                      and pelviacetabular trauma</a>
-                             </li>
+                             </li> -->
 
                          </ul>
                      </div>
@@ -1575,8 +1641,7 @@
                      <div class="col-xl-3 col-lg-4 col-md-6 footer-newsletter footerbgcolor">
                          <h4>Contact us</h4>
                          <p class="mt-2">
-                             <span class="phone_email"> <strong>Phone:</strong></span> <span class="mini_text">+91
-                                 9494680890 /
+                             <span class="phone_email"> <strong>Phone:</strong></span> <span class="mini_text">
                                  +91 9974922749</span>
                              <br>
                              <span class="phone_email"> <strong>Email:</strong></span> <span class="mini_text">
@@ -1705,7 +1770,7 @@
      </style>
 
 
-     <a href="https://api.whatsapp.com/send?phone=919494680890" style="color: #fff;" class="whatsapp-link"
+     <a href="https://api.whatsapp.com/send?phone=919974922749" style="color: #fff;" class="whatsapp-link"
          target="_blank">
          <i class="fab fa-whatsapp"></i>
      </a>
