@@ -91,17 +91,30 @@
 
          <!-- ======= About Us Section ======= -->
          <section id="About" class="about mt-5">
-             <div class="container" data-aos="fade-up">
 
-                 <div class="section-title one  only_margin_btm">
-                     <h1 class="">About Us</h1>
+             <div class="container" data-aos="fade-up">
+                 <div class="section-title   only_margin_btm">
+                     <h1 class="mt-5 pb-0 pt-5"> Dr.P.Manikumar</h1>
+                 </div>
+                 <p class="Consultant mt-0">Consultant Robotic Joint Replacement & Arthroscopy Surgeon</p>
+                 <p class="para_font mt-4">
+                     Dr Mani's ARTHRO 360° is one stop solution for all Orthopaedic Problems established in the
+                     heart of Kakinada smart city with an idea to deliver exceptional care and treatment to the
+                     patients. With extensive expertise we are dedicated in improving patient's quality of life
+                     and addressing a wide range of problems from Joint Preservation to Joint Replacement. The
+                     best possible results for patient's needs will be provided. Consultations are provided in a
+                     safe, hygienic, well equipped place located at Quality care diagnostics, beside Anand
+                     theatre, Kakinada.
+                 </p>
+                 <div class="section-title   only_margin_btm">
+                     <h1 class="mt-5"> Know Your Doctor</h1>
                  </div>
 
                  <div class="row aboutSections">
 
                      <div class="col-lg-8 pt-0 pt-lg-0 content" data-aos="fade-left">
 
-                         <p class=poetsen_font>
+                         <p class="poetsen_font">
                              Dr. P. Manikumar's expertise in Orthopaedics has helped many patients receive the best
                              quality care. He is the first Orthopaedic Surgeon who is fellowship trained in Robotic
                              Joint Replacement in Godavari Districts. He is fellowship trained in both Arthroplasty
@@ -111,30 +124,34 @@
 
                          </p>
                          <ul>
-                             <li class="para_font"><i class="bi bi-check-circle"></i>M.B.B.S from Government Medical
+                             <li class="para_font"><i class="bi bi-check-circle"></i>&nbsp;M.B.B.S from Government
+                                 Medical
                                  College, Srikakulam, Andhra Pradesh
                                  .
 
                              </li>
-                             <li class="para_font"><i class="bi bi-check-circle"></i>M.S (Orthopaedics) from Rangaraya
+                             <li class="para_font"><i class="bi bi-check-circle"></i>&nbsp;M.S (Orthopaedics) from
+                                 Rangaraya
                                  Medical College, Kakinada, Andhra Pradesh
 
                                  .
 
                              </li>
-                             <li class="para_font"><i class="bi bi-check-circle"></i>Depuy Fellowship in Joint
+                             <li class="para_font"><i class="bi bi-check-circle"></i>&nbsp;Depuy Fellowship in Joint
                                  Replacement (FIJR) from Srikara Hospitals, Hyderabad
 
                                  .
 
                              </li>
-                             <li class="para_font"><i class="bi bi-check-circle"></i>Smith and Nephew Fellowship in
+                             <li class="para_font"><i class="bi bi-check-circle"></i>&nbsp;Smith and Nephew Fellowship
+                                 in
                                  Shoulder Surgery, Arthroscopy and Sports Medicine from KIMS-Sunshine Hospitals,
                                  Hyderabad
                                  .
 
                              </li>
-                             <li class="para_font"><i class="bi bi-check-circle"></i>Smith and Nephew Fellowship in
+                             <li class="para_font"><i class="bi bi-check-circle"></i>&nbsp;Smith and Nephew Fellowship
+                                 in
                                  Robotic Joint Replacement (FIRJR) from Apollo Hospitals..
 
                              </li>
@@ -153,68 +170,171 @@
              </div>
          </section>
          <!-- End About Us Section -->
-         <div class="container">
-             <div class="row">
 
+         <section id="" class=" pt-5 mt-4">
+             <div class="container" data-aos="fade-up">
 
-                 <div class="followshhp mt-5 pt-2">
-                     <div class="section-title  mt-1 pt-2">
-                         <h1 class="Consultanttt">Dr.P.Manikumar</h1>
-                         <p class="Consultant">Consultant Robotic Joint Replacement & Arthroscopy Surgeon</p>
-                         <p class="para_font mt-4">
-                             Dr Mani's ARTHRO 360° is one stop solution for all Orthopaedic Problems established in the
-                             heart of Kakinada smart city with an idea to deliver exceptional care and treatment to the
-                             patients. With extensive expertise we are dedicated in improving patient's quality of life
-                             and addressing a wide range of problems from Joint Preservation to Joint Replacement. The
-                             best possible results for patient's needs will be provided. Consultations are provided in a
-                             safe, hygienic, well equipped place located at Quality care diagnostics, beside Anand
-                             theatre, Kakinada.
+                 <div class="section-title ">
+                     <h1 id="why_cjoosr pt-5 mt-5">Why Choose Us ?</h1>
+                 </div>
+                 <div class="row spine360 mb-5 mt-2">
+                     <div class="col-md-8 spineCol pt-5" data-aos="fade-left">
+                         <h4 class="why_spine">
+                             Specialized Doctors
+
+                         </h4>
+                         <p class="solution "> <i class="fa-solid fa-check"></i> We are certified and have received
+                             advanced training in a variety of Orthopaedic specialty areas. We are up-to-date with the
+                             most current treatment programs and technologies, which means we are able to provide the
+                             best care for a wide range of specific illnesses and conditions.
+
+                         </p>
+                         <h4 class="why_spine">
+                             Quality Standards
+
+                         </h4>
+                         <p class="solution "> <i class="fa-solid fa-check"></i> We strive to provide the patients with
+                             the best possible yet economical care and treatment. In essence, total patient care is the
+                             drive that propels us ahead on the path of bringing joy on the faces of people in need.
+
+                         </p>
+                         <h4 class="why_spine">
+                             Competitive Price
+
+                         </h4>
+                         <p class="solution "> <i class="fa-solid fa-check"></i> We aim to provide best possible medical
+                             care in the lowest cost possible. We have low competitive price and best quality assured.
+                             We have various packages for various surgeries and offer best yet economical medical
+                             treatments
                          </p>
                      </div>
-
-                     <div class="row text-center">
-                         <div class="col-md-3 my-2">
-
-                             <ul class="mbbsss">
-                                 <li class="MBBS">
-                                     MBBS
-                                 </li>
-                                 <li class="MBBS">
-                                     MS Ortho <span class="rmcc">(RMC)</span>
-                                 </li>
-
-                             </ul>
+                     <div class="col-md-4">
+                         <img src="assets/img/why.jpeg" alt="" class="whyimg">
+                     </div>
+                 </div>
 
 
+             </div>
+         </section>
+
+         <section id="About" class="about  pt-5">
+
+             <div class="container" data-aos="fade-up">
+
+                 <div class="section-title ">
+                     <h1 id="why_cjoosr  pb-5">Our Services</h1>
+                 </div>
+                 <div class="row spine360 mb-5 mt-5">
+                     <div class="col-md-6 mb-2">
+                         <div class="row">
+                             <div class="col-md-4">
+                                 <img src="assets/img/d1.jpeg" alt="" class="whyimg">
+                             </div>
+                             <div class="col-md-8" data-aos="fade-left">
+                                 <h6 class="Fractures1 mb-4">1) Fractures
+                                 </h6>
+                                 <ul class="Fractures">
+                                     <li class="solution "> <i class="fa-solid fa-check"></i>Pelviacetabular trauma
+                                     </li>
+                                     <li class="solution "> <i class="fa-solid fa-check"></i>Non Unions
+                                     </li>
+                                     <li class="solution "> <i class="fa-solid fa-check"></i>Deformity corrections
+                                     </li>
+                                 </ul>
+
+                             </div>
                          </div>
-                         <div class="col-md-4 my-2">
-                             <ul class="mbbsss">
-                                 <li class="MBBS">
-                                     Followship in ROBOTIC </li>
-                                 <li class="MBBS">
-                                     Joint Replacement <span class="rmcc">(FIRJR)</span> </li>
+                     </div>
+                     <div class="col-md-6 mb-2">
+                         <div class="row">
+                             <div class="col-md-4">
+                                 <img src="assets/img/d2.jpeg" alt="" class="whyimg">
+                             </div>
+                             <div class="col-md-8" data-aos="fade-left">
+                                 <h6 class="Fractures1 mb-4">2) Primary and Revision Joint replacement
+                                 </h6>
+                                 <ul class="Fractures">
+                                     <li class="solution "> <i class="fa-solid fa-check"></i>Knee replacement pic
 
-                             </ul>
+                                     </li>
+                                     <li class="solution "> <i class="fa-solid fa-check"></i>Hip replacement pic
 
+                                     </li>
+                                     <li class="solution "> <i class="fa-solid fa-check"></i>Shoulder replacement pic
 
+                                     </li>
+                                 </ul>
+
+                             </div>
                          </div>
-                         <div class="col-md-5">
-                             <ul class="mbbsss">
-                                 <li class="MBBS">
-                                     Followship in Arthroscopy and Sports Medicine <span class="rmcc">(FIAS)</span>
-                                 </li>
-                                 <li class="MBBS">
-                                     Fellowship in Shoulder Surgery <span class="rmcc">(FISS)</span></li>
-                             </ul>
+                     </div>
+                 </div>
+                 <div class="row spine360 mb-5 mt-5">
+                     <div class="col-md-6 mb-2">
+                         <div class="row">
+                             <div class="col-md-4">
+                                 <img src="assets/img/d3.jpeg" alt="" class="whyimg">
+                             </div>
+                             <div class="col-md-8" data-aos="fade-left">
+                                 <h6 class="Fractures1 mb-4">3) Arthroscopy and Sports Medicine
+
+                                 </h6>
+                                 <ul class="Fractures">
+                                     <li class="solution "> <i class="fa-solid fa-check"></i>ACL reconstruction
+
+                                     </li>
+                                     <li class="solution "> <i class="fa-solid fa-check"></i>PCL reconstruction
+
+                                     </li>
+                                     <li class="solution "> <i class="fa-solid fa-check"></i>MCL and LCL
+                                         reconstruction
+
+                                     </li>
+                                     <li class="solution "> <i class="fa-solid fa-check"></i>Meniscus Surgery
+
+                                     </li>
+                                     <li class="solution "> <i class="fa-solid fa-check"></i>Rotator cuff repair
+
+                                     </li>
+                                     <li class="solution "> <i class="fa-solid fa-check"></i>Bankart's repair
+
+                                     </li>
+                                     <li class="solution "> <i class="fa-solid fa-check"></i>SLAP repair
+
+                                     </li>
+                                 </ul>
+                             </div>
+                         </div>
+                     </div>
+                     <div class="col-md-6 mb-2">
+                         <div class="row">
+                             <div class="col-md-4">
+                                 <img src="assets/img/d4.jpeg" alt="" class="whyimg">
+                             </div>
+                             <div class="col-md-8" data-aos="fade-left">
+                                 <h6 class="Fractures1 mb-4">4) Ortho biologics
+                                 </h6>
+                                 <ul class="Fractures">
+                                     <li class="solution "> <i class="fa-solid fa-check"></i>Prp treatments
+
+                                     </li>
+                                     <li class="solution "> <i class="fa-solid fa-check"></i>BMAC procedures
+                                     </li>
+
+                                 </ul>
+
+                             </div>
                          </div>
                      </div>
                  </div>
 
+
+
+
+
+
              </div>
-         </div>
-
-
-
+         </section>
 
          <section class="my-5" id="Expertise">
              <div class="container">
@@ -978,11 +1098,11 @@
          <section id="Testimonial" class="testimonials">
              <div class="container" data-aos="fade-up">
 
-                 <div class="section-title one">
+                 <div class="section-title  pt-5">
                      <h1>Testimonials</h1>
                  </div>
 
-                 <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+                 <div class="testimonials-slider swiper mt-5" data-aos="fade-up" data-aos-delay="100">
                      <div class="swiper-wrapper">
 
                          <div class="swiper-slide">
@@ -1085,51 +1205,10 @@
 
              </div>
          </section>
-         <section id="" class="testimonials">
-             <div class="container" data-aos="fade-up">
 
-                 <div class="section-title one">
-                     <h1 id="why_cjoosr">Why Choose Us ?</h1>
-                 </div>
-                 <div class="row spine360 mb-5 mt-2">
-                     <div class="col-md-12 spineCol" data-aos="fade-left">
-                         <h4 class="why_spine">
-                             Specialized Doctors
-
-                         </h4>
-                         <p class="solution "> <i class="fa-solid fa-check"></i> We are certified and have received
-                             advanced training in a variety of Orthopaedic specialty areas. We are up-to-date with the
-                             most current treatment programs and technologies, which means we are able to provide the
-                             best care for a wide range of specific illnesses and conditions.
-
-                         </p>
-                         <h4 class="why_spine">
-                             Quality Standards
-
-                         </h4>
-                         <p class="solution "> <i class="fa-solid fa-check"></i> We strive to provide the patients with
-                             the best possible yet economical care and treatment. In essence, total patient care is the
-                             drive that propels us ahead on the path of bringing joy on the faces of people in need.
-
-                         </p>
-                         <h4 class="why_spine">
-                             Competitive Price
-
-                         </h4>
-                         <p class="solution "> <i class="fa-solid fa-check"></i> We aim to provide best possible medical
-                             care in the lowest cost possible. We have low competitive price and best quality assured.
-                             We have various packages for various surgeries and offer best yet economical medical
-                             treatments
-                         </p>
-                     </div>
-                 </div>
-
-
-             </div>
-         </section>
          <!-- End Testimonials Section -->
 
-         <div class="galleryyy">
+         <div class="galleryyy mt-5">
              <div class="container">
                  <div class="section-title one">
                      <h1>Gallery</h1>
@@ -1185,13 +1264,13 @@
 
          <!-- ======= Appointment Section ======= -->
 
-         <section id="Appointment" class="appointment section-bg mt-5 pt-5 pb-5">
+         <section id="Appointment" class="Makeeee section-bg mt-5 pt-5 pb-5">
              <div class="container" data-aos="fade-up">
 
                  <div class="row">
                      <div class="col-md-7">
-                         <div class="section-title one">
-                             <h1 class="appoitment_text_size">Make an Appointment</h1>
+                         <div class="section-title ">
+                             <h1 class="appoitment_text_size mb-5">Make an Appointment</h1>
                          </div>
                          <form action="appointmentform.php" method="post" role="form" class="php-email-form" data-aos="fade-up" data-aos-delay="100">
                              <div class="row">
@@ -1248,7 +1327,9 @@
                                  <!-- <div class="error-message"></div> -->
                                  <!-- <div class="sent-message">Your appointment request has been sent successfully. Thank you!</div> -->
                              </div>
-                             <div class="text-center"><button type="submit">Make an Appointment</button></div>
+                             <div class="text-center appointment"><button type="submit" class="appointment-btn">Make an
+                                     Appointment</button>
+                             </div>
                          </form>
                      </div>
                      <div class="col-md-5">
@@ -1427,7 +1508,7 @@
          <section id="Contact" class="contact mt-5 pb-2">
              <div class="container">
 
-                 <div class="section-title one pb-0">
+                 <div class="section-title  pb-0">
                      <h1>Contact</h1>
                  </div>
 
@@ -1522,88 +1603,88 @@
 
      <!-- ======= Footer ======= -->
      <footer id="footer">
-         <div class="footer-top mt-5" style="background-color:rgb(242 252 255);">
-             <div class="container">
-                 <div class="row">
+         <div class="footer-top mt-5" ">
+             <div class=" container">
+             <div class="row">
 
-                     <div class="col-xl-4 col-lg-3 col-md-6 d-flex flex-column justify-content-center">
-                         <div class="footer-info d-none d-xl-block">
-                             <a href="index.php" class="logo me-auto "><img src="assets/img/logo/2.png" style="height:150px;" alt=""></a>
+                 <div class="col-xl-4 col-lg-3 col-md-6 d-flex flex-column justify-content-center">
+                     <div class="footer-info d-none d-xl-block">
+                         <a href="index.php" class="logo me-auto "><img src="assets/img/logo/2.png" style="height:150px;" alt=""></a>
 
-                         </div>
-                         <div class="footer-info d-block d-xl-none">
-                             <a href="index.php" class="logo me-auto "><img src="assets/img/logo/2.png" class="img-fluid" alt=""></a>
-
-                         </div>
                      </div>
-                     <div class="col-xl-2 col-lg-2 col-md-6 col-5 footer-links">
-                         <h4>Dr.P.Manikumar</h4>
-                         <ul>
+                     <div class="footer-info d-block d-xl-none">
+                         <a href="index.php" class="logo me-auto "><img src="assets/img/logo/2.png" class="img-fluid" alt=""></a>
 
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href="#facilities">MBBS</a>
-                             </li>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href="#facilities"> MS Ortho(RMC)</a>
-                             </li>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Followship in ROBOTIC </a>
-                             </li>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities"> Joint Replacement (FIRJR)</a>
-                             </li>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Followship in Arthroscopy and Sports Medicine (FIAS)</a>
-                             </li>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Fellowship in Shoulder Surgery(FISS)</a>
-                             </li>
-
-
-                         </ul>
                      </div>
+                 </div>
+                 <div class="col-xl-2 col-lg-2 col-md-6 col-5 footer-links">
+                     <h4>Dr.P.Manikumar</h4>
+                     <ul>
 
-                     <div class="col-xl-3 col-lg-3 col-md-6 col-7 footer-links">
-                         <h4>Our Services</h4>
+                         <li>
+                             <i class="bx bx-chevron-right"></i>
+                             <a href="#facilities">MBBS</a>
+                         </li>
+                         <li>
+                             <i class="bx bx-chevron-right"></i>
+                             <a href="#facilities"> MS Ortho(RMC)</a>
+                         </li>
+                         <li>
+                             <i class="bx bx-chevron-right"></i>
+                             <a href=" #facilities">Followship in ROBOTIC </a>
+                         </li>
+                         <li>
+                             <i class="bx bx-chevron-right"></i>
+                             <a href=" #facilities"> Joint Replacement (FIRJR)</a>
+                         </li>
+                         <li>
+                             <i class="bx bx-chevron-right"></i>
+                             <a href=" #facilities">Followship in Arthroscopy and Sports Medicine (FIAS)</a>
+                         </li>
+                         <li>
+                             <i class="bx bx-chevron-right"></i>
+                             <a href=" #facilities">Fellowship in Shoulder Surgery(FISS)</a>
+                         </li>
 
-                         <ul>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Fractures
-                                     Pelviacetabular trauma
-                                     Non Unions
-                                     Deformity corrections</a>
-                             </li>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Primary and Revision Joint replacement Knee replacement pic
-                                     Hip replacement pic
-                                     Shoulder replacement pic </a>
-                             </li>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Arthroscopy and Sports Medicine
-                                     ACL reconstruction
-                                     PCL reconstruction
-                                     MCL and LCL reconstruction
-                                     Meniscus Surgery
-                                     Rotator cuff repair
-                                     Bankart's repair
-                                     SLAP repair</a>
-                             </li>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Ortho biologics
-                                     Prp treatments
-                                     BMAC procedures</a>
-                             </li>
-                             <!-- <li>
+
+                     </ul>
+                 </div>
+
+                 <div class="col-xl-3 col-lg-3 col-md-6 col-7 footer-links">
+                     <h4>Our Services</h4>
+
+                     <ul>
+                         <li>
+                             <i class="bx bx-chevron-right"></i>
+                             <a href=" #facilities">Fractures
+                                 Pelviacetabular trauma
+                                 Non Unions
+                                 Deformity corrections</a>
+                         </li>
+                         <li>
+                             <i class="bx bx-chevron-right"></i>
+                             <a href=" #facilities">Primary and Revision Joint replacement Knee replacement pic
+                                 Hip replacement pic
+                                 Shoulder replacement pic </a>
+                         </li>
+                         <li>
+                             <i class="bx bx-chevron-right"></i>
+                             <a href=" #facilities">Arthroscopy and Sports Medicine
+                                 ACL reconstruction
+                                 PCL reconstruction
+                                 MCL and LCL reconstruction
+                                 Meniscus Surgery
+                                 Rotator cuff repair
+                                 Bankart's repair
+                                 SLAP repair</a>
+                         </li>
+                         <li>
+                             <i class="bx bx-chevron-right"></i>
+                             <a href=" #facilities">Ortho biologics
+                                 Prp treatments
+                                 BMAC procedures</a>
+                         </li>
+                         <!-- <li>
                                  <i class="bx bx-chevron-right"></i>
                                  <a href=" #facilities">ACL,
                                      PCL
@@ -1621,40 +1702,40 @@
                                      and pelviacetabular trauma</a>
                              </li> -->
 
-                         </ul>
-                     </div>
+                     </ul>
+                 </div>
 
-                     <div class="col-xl-3 col-lg-4 col-md-6 footer-newsletter footerbgcolor">
-                         <h4>Contact us</h4>
-                         <p class="mt-2">
-                             <span class="phone_email"> <strong>Phone:</strong></span> <span class="mini_text">
-                                 +91 9974922749</span>
-                             <br>
-                             <span class="phone_email"> <strong>Email:</strong></span> <span class="mini_text">
-                                 drpmanikumar@gmail.com</span> <br>
+                 <div class="col-xl-3 col-lg-4 col-md-6 footer-newsletter footerbgcolor">
+                     <h4>Contact us</h4>
+                     <p class="mt-2">
+                         <span class="phone_email"> <strong>Phone:</strong></span> <span class="mini_text">
+                             +91 9974922749</span>
+                         <br>
+                         <span class="phone_email"> <strong>Email:</strong></span> <span class="mini_text">
+                             drpmanikumar@gmail.com</span> <br>
+                     </p>
+                     <a href="https://maps.app.goo.gl/JFiRy7SuoXiDd9qJ7" class="mini_text">
+                         <p class="mt-4 mini_text">
+
+                             1st Floor , Quality Care Diagnostics 2-34-8/1 , <br />Chinta Vari Street, Jn, opp. St
+                             Anthony's High School, Bhanugudi Junction, Kakinada, Andhra Pradesh 533003
+
+                             <!-- NEAR NARAYANA JR. COLLEGE<br> -->
+
                          </p>
-                         <a href="https://maps.app.goo.gl/JFiRy7SuoXiDd9qJ7" class="mini_text">
-                             <p class="mt-4 mini_text">
+                     </a>
+                     <div class="social-links mt-3">
+                         <a href="https://www.facebook.com/Artho360clinic" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+                         <a href="https://www.instagram.com/artho360clinic/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+                         <a href="https://www.youtube.com/@artho360clinic" target="_blank" class="youtube"><i class="bx bxl-youtube"></i></a>
 
-                                 1st Floor , Quality Care Diagnostics 2-34-8/1 , <br />Chinta Vari Street, Jn, opp. St
-                                 Anthony's High School, Bhanugudi Junction, Kakinada, Andhra Pradesh 533003
-
-                                 <!-- NEAR NARAYANA JR. COLLEGE<br> -->
-
-                             </p>
-                         </a>
-                         <div class="social-links mt-3">
-                             <a href="https://www.facebook.com/Artho360clinic" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
-                             <a href="https://www.instagram.com/artho360clinic/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
-                             <a href="https://www.youtube.com/@artho360clinic" target="_blank" class="youtube"><i class="bx bxl-youtube"></i></a>
-
-
-                         </div>
 
                      </div>
 
                  </div>
+
              </div>
+         </div>
          </div>
 
 
