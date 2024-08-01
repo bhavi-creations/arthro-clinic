@@ -2539,16 +2539,27 @@ img.img-fluid.gImg {
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
-
-
-.service_text_heading{
- 
+.service_text_heading {
   text-align: center;
   font-size: 30px;
   font-weight: 1050;
- }
+}
 
- .image_tetx_inside{
-  
- }
- 
+h1.Fractures {
+  color: black;
+  text-align: justify;
+  font-size: 23px;
+  font-family: "Roboto";
+  letter-spacing: 0px;
+  text-transform: capitalize;
+  word-spacing: 4px;
+}
+h1.Fractures1 {
+  color: black;
+  text-align: end;
+  font-size: 23px;
+  font-family: "Roboto";
+  letter-spacing: 0px;
+  text-transform: capitalize;
+  word-spacing: 4px;
+}
