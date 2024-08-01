@@ -233,107 +233,138 @@
                  </div>
                  <div class="row spine360 mb-5 mt-5">
                      <div class="col-md-6 mb-2">
-                         <div class="row">
-                             <div class="col-md-4">
-                                 <img src="assets/img/d1.jpeg" alt="" class="whyimg">
-                             </div>
-                             <div class="col-md-8" data-aos="fade-left">
-                                 <h6 class="Fractures1 mb-4">1) Fractures
-                                 </h6>
-                                 <ul class="Fractures">
-                                     <li class="solution "> <i class="fa-solid fa-check"></i>Pelviacetabular trauma
-                                     </li>
-                                     <li class="solution "> <i class="fa-solid fa-check"></i>Non Unions
-                                     </li>
-                                     <li class="solution "> <i class="fa-solid fa-check"></i>Deformity corrections
-                                     </li>
-                                 </ul>
+
+
+                         <div class="S1 swiper mt-5 mb-2" data-aos="fade-up" data-aos-delay="100">
+                             <div class="swiper-wrapper">
+
+                                 <div class="swiper-slide">
+                                     <div class="testimonial-item">
+                                         <img src="assets/img/tripura/angry.png" class="img-fluid gImg">
+                                     </div>
+                                 </div>
+
+
+                                 <div class="swiper-slide">
+                                     <div class="testimonial-item">
+                                         <img src="assets/img/tripura/anxiety.png" class="img-fluid gImg">
+                                     </div>
+                                 </div>
+
+
+                                 <div class="swiper-slide">
+                                     <div class="testimonial-item">
+                                         <img src="assets/img/tripura/dipression.png" class="img-fluid gImg">
+                                     </div>
+                                 </div>
 
                              </div>
+                             <br>
+                             <br>
+                             <div class="swiper-pagination mt-5"></div>
                          </div>
+
                      </div>
+
                      <div class="col-md-6 mb-2">
-                         <div class="row">
-                             <div class="col-md-4">
-                                 <img src="assets/img/d2.jpeg" alt="" class="whyimg">
+                         <div class="S1 swiper mt-5 mb-2" data-aos="fade-up" data-aos-delay="100">
+                             <div class="swiper-wrapper">
+
+                                 <div class="swiper-slide">
+                                     <div class="testimonial-item">
+                                         <img src="assets/img/tripura/angry.png" class="img-fluid gImg">
+                                     </div>
+                                 </div>
+
+
+                                 <div class="swiper-slide">
+                                     <div class="testimonial-item">
+                                         <img src="assets/img/tripura/anxiety.png" class="img-fluid gImg">
+                                     </div>
+                                 </div>
+
+
+                                 <div class="swiper-slide">
+                                     <div class="testimonial-item">
+                                         <img src="assets/img/tripura/dipression.png" class="img-fluid gImg">
+                                     </div>
+                                 </div>
+
                              </div>
-                             <div class="col-md-8" data-aos="fade-left">
-                                 <h6 class="Fractures1 mb-4">2) Primary and Revision Joint replacement
-                                 </h6>
-                                 <ul class="Fractures">
-                                     <li class="solution "> <i class="fa-solid fa-check"></i>Knee replacement pic
-
-                                     </li>
-                                     <li class="solution "> <i class="fa-solid fa-check"></i>Hip replacement pic
-
-                                     </li>
-                                     <li class="solution "> <i class="fa-solid fa-check"></i>Shoulder replacement pic
-
-                                     </li>
-                                 </ul>
-
-                             </div>
+                             <br>
+                             <br>
+                             <div class="swiper-pagination mt-5"></div>
                          </div>
                      </div>
                  </div>
                  <div class="row spine360 mb-5 mt-5">
                      <div class="col-md-6 mb-2">
-                         <div class="row">
-                             <div class="col-md-4">
-                                 <img src="assets/img/d3.jpeg" alt="" class="whyimg">
+
+
+                         <div class="S1 swiper mt-5 mb-2" data-aos="fade-up" data-aos-delay="100">
+                             <div class="swiper-wrapper">
+
+                                 <div class="swiper-slide">
+                                     <div class="testimonial-item">
+                                         <img src="assets/img/tripura/angry.png" class="img-fluid gImg">
+                                     </div>
+                                 </div>
+
+
+                                 <div class="swiper-slide">
+                                     <div class="testimonial-item">
+                                         <img src="assets/img/tripura/anxiety.png" class="img-fluid gImg">
+                                     </div>
+                                 </div>
+
+
+                                 <div class="swiper-slide">
+                                     <div class="testimonial-item">
+                                         <img src="assets/img/tripura/dipression.png" class="img-fluid gImg">
+                                     </div>
+                                 </div>
+
                              </div>
-                             <div class="col-md-8" data-aos="fade-left">
-                                 <h6 class="Fractures1 mb-4">3) Arthroscopy and Sports Medicine
-
-                                 </h6>
-                                 <ul class="Fractures">
-                                     <li class="solution "> <i class="fa-solid fa-check"></i>ACL reconstruction
-
-                                     </li>
-                                     <li class="solution "> <i class="fa-solid fa-check"></i>PCL reconstruction
-
-                                     </li>
-                                     <li class="solution "> <i class="fa-solid fa-check"></i>MCL and LCL
-                                         reconstruction
-
-                                     </li>
-                                     <li class="solution "> <i class="fa-solid fa-check"></i>Meniscus Surgery
-
-                                     </li>
-                                     <li class="solution "> <i class="fa-solid fa-check"></i>Rotator cuff repair
-
-                                     </li>
-                                     <li class="solution "> <i class="fa-solid fa-check"></i>Bankart's repair
-
-                                     </li>
-                                     <li class="solution "> <i class="fa-solid fa-check"></i>SLAP repair
-
-                                     </li>
-                                 </ul>
-                             </div>
+                             <br>
+                             <br>
+                             <div class="swiper-pagination mt-5"></div>
                          </div>
+
                      </div>
+
                      <div class="col-md-6 mb-2">
-                         <div class="row">
-                             <div class="col-md-4">
-                                 <img src="assets/img/d4.jpeg" alt="" class="whyimg">
+                         <div class="S1 swiper mt-5 mb-2" data-aos="fade-up" data-aos-delay="100">
+                             <div class="swiper-wrapper">
+
+                                 <div class="swiper-slide">
+                                     <div class="testimonial-item">
+                                         <img src="assets/img/tripura/angry.png" class="img-fluid gImg">
+                                     </div>
+                                 </div>
+
+
+                                 <div class="swiper-slide">
+                                     <div class="testimonial-item">
+                                         <img src="assets/img/tripura/anxiety.png" class="img-fluid gImg">
+                                     </div>
+                                 </div>
+
+
+                                 <div class="swiper-slide">
+                                     <div class="testimonial-item">
+                                         <img src="assets/img/tripura/dipression.png" class="img-fluid gImg">
+                                     </div>
+                                 </div>
+
                              </div>
-                             <div class="col-md-8" data-aos="fade-left">
-                                 <h6 class="Fractures1 mb-4">4) Ortho biologics
-                                 </h6>
-                                 <ul class="Fractures">
-                                     <li class="solution "> <i class="fa-solid fa-check"></i>Prp treatments
-
-                                     </li>
-                                     <li class="solution "> <i class="fa-solid fa-check"></i>BMAC procedures
-                                     </li>
-
-                                 </ul>
-
-                             </div>
+                             <br>
+                             <br>
+                             <div class="swiper-pagination mt-5"></div>
                          </div>
                      </div>
                  </div>
+             </div>
+
 
 
 
