@@ -248,7 +248,8 @@
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/artho/Pelviacetabular trauma.webp" class="img-fluid gImg">
+                                         <img src="assets/img/artho/Pelviacetabular trauma.webp"
+                                             class="img-fluid gImg1">
 
                                      </div>
                                      <p class="image_tetx_inside">Pelviacetabular trauma</p>
@@ -257,7 +258,7 @@
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/artho/Non Unions.webp" class="img-fluid gImg">
+                                         <img src="assets/img/artho/Non Unions.webp" class="img-fluid gImg1">
                                      </div>
                                      <p class="image_tetx_inside">Non Unions </p>
                                  </div>
@@ -265,7 +266,7 @@
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/artho/Deformity corrections.webp" class="img-fluid gImg">
+                                         <img src="assets/img/artho/Deformity corrections.webp" class="img-fluid gImg1">
                                      </div>
                                      <p class="image_tetx_inside">Deformity corrections</p>
                                  </div>
@@ -292,7 +293,7 @@
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/artho/Knee replacement pic.webp" class="img-fluid gImg">
+                                         <img src="assets/img/artho/Knee replacement pic.webp" class="img-fluid gImg1">
                                      </div>
                                      <p class="image_tetx_inside">Knee replacement pic</p>
                                  </div>
@@ -300,7 +301,7 @@
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/artho/Hip replacement pic.webp" class="img-fluid gImg">
+                                         <img src="assets/img/artho/Hip replacement pic.webp" class="img-fluid gImg1">
                                      </div>
                                      <p class="image_tetx_inside">Hip replacement pic</p>
                                  </div>
@@ -309,7 +310,7 @@
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
                                          <img src="assets/img/artho/Shoulder replacement pic.webp"
-                                             class="img-fluid gImg">
+                                             class="img-fluid gImg1">
                                      </div>
                                      <p class="image_tetx_inside">Shoulder replacement pic</p>
                                  </div>
@@ -334,7 +335,7 @@
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/artho/acl-reconstruction.jpg" class="img-fluid gImg">
+                                         <img src="assets/img/artho/acl-reconstruction.jpg" class="img-fluid gImg1">
                                      </div>
                                      <p class="image_tetx_inside">ACL reconstruction</p>
                                  </div>
@@ -342,7 +343,7 @@
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/artho/PCL reconstruction.webp" class="img-fluid gImg">
+                                         <img src="assets/img/artho/PCL reconstruction.webp" class="img-fluid gImg1">
                                      </div>
                                      <p class="image_tetx_inside">PCL reconstruction</p>
                                  </div>
@@ -350,31 +351,31 @@
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/artho/mcl and lcl.jpg" class="img-fluid gImg">
+                                         <img src="assets/img/artho/mcl and lcl.jpg" class="img-fluid gImg1">
                                      </div>
                                      <p class="image_tetx_inside">MCL and LCL reconstruction</p>
                                  </div>
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/artho/meniscus surgery.jpg" class="img-fluid gImg">
+                                         <img src="assets/img/artho/meniscus surgery.jpg" class="img-fluid gImg1">
                                      </div>
                                      <p class="image_tetx_inside">Meniscus Surgery</p>
                                  </div>
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/artho/Rotator cuff repair.webp" class="img-fluid gImg">
+                                         <img src="assets/img/artho/Rotator cuff repair.webp" class="img-fluid gImg1">
                                      </div>
                                      <p class="image_tetx_inside">Rotator cuff repair</p>
                                  </div>
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/artho/Bankart's repair.webp" class="img-fluid gImg">
+                                         <img src="assets/img/artho/Bankart's repair.webp" class="img-fluid gImg1">
                                      </div>
                                      <p class="image_tetx_inside">Bankart's repair</p>
                                  </div>
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/artho/SLAP repair.webp" class="img-fluid gImg">
+                                         <img src="assets/img/artho/SLAP repair.webp" class="img-fluid gImg1">
                                      </div>
                                      <p class="image_tetx_inside">SLAP repair</p>
                                  </div>
@@ -398,7 +399,7 @@
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/artho/Prp treatments.webp" class="img-fluid gImg">
+                                         <img src="assets/img/artho/Prp treatments.webp" class="img-fluid gImg1">
                                      </div>
                                      <p class="image_tetx_inside">Prp treatments</p>
                                  </div>
@@ -406,7 +407,7 @@
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/artho/BMAC procedures.webp" class="img-fluid gImg">
+                                         <img src="assets/img/artho/BMAC procedures.webp" class="img-fluid gImg1">
                                      </div>
                                      <p class="image_tetx_inside">BMAC procedures
                                      </p>
