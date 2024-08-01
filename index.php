@@ -110,7 +110,7 @@
                      theatre, Kakinada.
                  </p>
                  <div class="section-title   only_margin_btm">
-                     <h1 class="mt-5"> Know Your Doctor</h1>
+                     <h1 class="mt-5" id="change_text_size"> Know Your Doctor</h1>
                  </div>
 
                  <div class="row aboutSections">
@@ -177,8 +177,8 @@
          <section id="" class=" pt-5 mt-4">
              <div class="container" data-aos="fade-up">
 
-                 <div class="section-title ">
-                     <h1 id="why_cjoosr pt-5 mt-5">Why Choose Us ?</h1>
+                 <div class="section-title "> 
+                     <h1 id="why_cjoosr" class=" pt-5  " >Why Choose Us ?</h1>
                  </div>
                  <div class="row spine360 mb-5 mt-2">
                      <div class="col-md-8 spineCol pt-5" data-aos="fade-left">
@@ -1214,7 +1214,7 @@
          <div class="galleryyy mt-5">
              <div class="container">
                  <div class="section-title one">
-                     <h1>Gallery</h1>
+                     <h1 class="text-center">Gallery</h1>
                  </div>
                  <div class="row">
                      <div class="header" id="myHeader">
@@ -1332,10 +1332,7 @@
                                      placeholder="Message (Optional)"></textarea>
                              </div>
                              <div class="my-3">
-                                 <div class="loading">Loading</div>
-                                 <!-- <div class="error-message"></div> -->
-                                 <!-- <div class="sent-message">Your appointment request has been sent successfully. Thank you!</div> -->
-                             </div>
+                              </div>
                              <div class="text-center appointment"><button type="submit" class="appointment-btn">Make an
                                      Appointment</button>
                              </div>
