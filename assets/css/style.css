@@ -220,10 +220,28 @@ h6 {
 #header .logo a {
   color: #555555;
 }
+@media (min-width:1200px) {
+  
+  #header .logo img {
+    /* height: 50px; */
+    width: 28%;
+  }
+}
 
-#header .logo img {
-  /* height: 50px; */
-  width: 28%;
+@media (min-width:768px) and (max-width:992px) {
+  
+  #header .logo img {
+    /* height: 50px; */
+    width: 24% !important;
+  }
+}
+
+@media (max-width:768px)  {
+  
+  #header .logo img {
+    /* height: 50px; */
+    width: 50% !important;
+  }
 }
 /**
 * Appointment Button
@@ -680,9 +698,9 @@ section {
   overflow: hidden;
 }
 
-.section-bg {
-  /* background-color: rgb(224 243 254); */
-}
+/* .section-bg {
+  background-color: rgb(224 243 254);
+} */
 
 .section-title {
   text-align: center;
@@ -2579,3 +2597,6 @@ p.image_tetx_inside {
   font-family: "Roboto";
   font-weight: 500;
 }
+
+
+ 

@@ -48,7 +48,9 @@
      <header id="header" class="fixed-top ">
          <div class="container d-flex align-items-center ">
              <a href="index.php" class="logo me-auto">
-                 <img src="assets/img/logo/2.png" alt="" class="img-fluid">
+                 <img src="assets/img/logo/2.png" alt="" class="img-fluid image_size">
+                 
+
              </a>
              <nav id="navbar" class="navbar order-lg-0 ">
                  <ul>
@@ -67,7 +69,7 @@
      </header><!-- End Header -->
 
      <!-- ======= Hero Section ======= -->
-     <div id="carouselExampleFade home" data-bs-interval="3000" class="carousel slide carousel-fade"
+     <div id="carouselExampleFade" data-bs-interval="3000" class="carousel slide carousel-fade home"
          data-bs-ride="carousel">
          <div class="carousel-inner cor_med" id="bb">
 
