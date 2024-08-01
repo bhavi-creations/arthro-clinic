@@ -163,7 +163,7 @@
 
                      </div>
                      <div class="col-lg-4 mt-5 pe-2" data-aos="fade-right">
-                         <img src="assets/img/about.png" class="img-fluid" alt="">
+                         <img src="assets/img/artho/know your doc.png" class="img-fluid" alt="">
                      </div>
                  </div>
 
@@ -212,7 +212,7 @@
                          </p> -->
                      </div>
                      <div class="col-md-4">
-                         <img src="assets/img/why.jpeg" alt="" class="whyimg">
+                         <img src="assets/img/artho/why choose us.png" alt="" class="whyimg">
                      </div>
                  </div>
 
@@ -234,28 +234,35 @@
                  <div class="row spine360 mb-5 mt-5">
                      <div class="col-md-6 mb-2">
 
+                         <div class="service_text_heading">
+                             <p>Fractures</p>
+                         </div>
 
                          <div class="S1 swiper mt-5 mb-2" data-aos="fade-up" data-aos-delay="100">
                              <div class="swiper-wrapper">
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/tripura/angry.png" class="img-fluid gImg">
+                                         <img src="assets/img/artho/Pelviacetabular trauma.webp" class="img-fluid gImg">
+
                                      </div>
+                                     <p class="image_tetx_inside">Pelviacetabular trauma</p>
                                  </div>
 
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/tripura/anxiety.png" class="img-fluid gImg">
+                                         <img src="assets/img/artho/Non Unions.webp" class="img-fluid gImg">
                                      </div>
+                                     <p class="image_tetx_inside">Non Unions </p>
                                  </div>
 
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/tripura/dipression.png" class="img-fluid gImg">
+                                         <img src="assets/img/artho/Deformity corrections.webp" class="img-fluid gImg">
                                      </div>
+                                     <p class="image_tetx_inside">Deformity corrections</p>
                                  </div>
 
                              </div>
@@ -267,27 +274,37 @@
                      </div>
 
                      <div class="col-md-6 mb-2">
+
+
+                         <div class="service_text_heading">
+                             <p>Primary and Revision Joint replacement</p>
+                         </div>
+
+
                          <div class="S1 swiper mt-5 mb-2" data-aos="fade-up" data-aos-delay="100">
                              <div class="swiper-wrapper">
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/tripura/angry.png" class="img-fluid gImg">
+                                         <img src="assets/img/artho/Knee replacement pic.webp" class="img-fluid gImg">
                                      </div>
+                                     <p class="image_tetx_inside">Knee replacement pic</p>
                                  </div>
 
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/tripura/anxiety.png" class="img-fluid gImg">
+                                         <img src="assets/img/artho/Hip replacement pic.webp" class="img-fluid gImg">
                                      </div>
+                                     <p class="image_tetx_inside">Hip replacement pic</p>
                                  </div>
 
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/tripura/dipression.png" class="img-fluid gImg">
+                                         <img src="assets/img/artho/Shoulder replacement pic.webp" class="img-fluid gImg">
                                      </div>
+                                     <p class="image_tetx_inside">Shoulder replacement pic</p>
                                  </div>
 
                              </div>
@@ -295,10 +312,14 @@
                              <br>
                              <div class="swiper-pagination mt-5"></div>
                          </div>
+
                      </div>
                  </div>
                  <div class="row spine360 mb-5 mt-5">
                      <div class="col-md-6 mb-2">
+                         <div class="service_text_heading">
+                             <p>Arthroscopy and Sports Medicine</p>
+                         </div>
 
 
                          <div class="S1 swiper mt-5 mb-2" data-aos="fade-up" data-aos-delay="100">
@@ -306,22 +327,49 @@
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/tripura/angry.png" class="img-fluid gImg">
+                                         <img src="assets/img/artho/acl-reconstruction.jpg" class="img-fluid gImg">
                                      </div>
+                                     <p class="image_tetx_inside">ACL reconstruction</p>
                                  </div>
 
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/tripura/anxiety.png" class="img-fluid gImg">
+                                         <img src="assets/img/artho/PCL reconstruction.webp" class="img-fluid gImg">
                                      </div>
+                                     <p class="image_tetx_inside">PCL reconstruction</p>
                                  </div>
 
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/tripura/dipression.png" class="img-fluid gImg">
+                                         <img src="assets/img/artho/mcl and lcl.jpg" class="img-fluid gImg">
                                      </div>
+                                     <p class="image_tetx_inside">MCL and LCL reconstruction</p>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="testimonial-item">
+                                         <img src="assets/img/artho/meniscus surgery.jpg" class="img-fluid gImg">
+                                     </div>
+                                     <p class="image_tetx_inside">Meniscus Surgery</p>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="testimonial-item">
+                                         <img src="assets/img/artho/Rotator cuff repair.webp" class="img-fluid gImg">
+                                     </div>
+                                     <p class="image_tetx_inside">Rotator cuff repair</p>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="testimonial-item">
+                                         <img src="assets/img/artho/Bankart's repair.webp" class="img-fluid gImg">
+                                     </div>
+                                     <p class="image_tetx_inside">Bankart's repair</p>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="testimonial-item">
+                                         <img src="assets/img/artho/SLAP repair.webp" class="img-fluid gImg">
+                                     </div>
+                                     <p class="image_tetx_inside">SLAP repair</p>
                                  </div>
 
                              </div>
@@ -333,34 +381,38 @@
                      </div>
 
                      <div class="col-md-6 mb-2">
+                         <div class="service_text_heading">
+                             <p>Ortho biologics</p>
+                         </div>
+
                          <div class="S1 swiper mt-5 mb-2" data-aos="fade-up" data-aos-delay="100">
                              <div class="swiper-wrapper">
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/tripura/angry.png" class="img-fluid gImg">
+                                         <img src="assets/img/artho/Prp treatments.webp" class="img-fluid gImg">
                                      </div>
+                                     <p class="image_tetx_inside">Prp treatments</p>
                                  </div>
 
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/tripura/anxiety.png" class="img-fluid gImg">
+                                         <img src="assets/img/artho/BMAC procedures.webp" class="img-fluid gImg">
                                      </div>
+                                     <p class="image_tetx_inside">BMAC procedures
+                                     </p>
                                  </div>
 
 
-                                 <div class="swiper-slide">
-                                     <div class="testimonial-item">
-                                         <img src="assets/img/tripura/dipression.png" class="img-fluid gImg">
-                                     </div>
-                                 </div>
+                                
 
                              </div>
                              <br>
                              <br>
                              <div class="swiper-pagination mt-5"></div>
                          </div>
+
                      </div>
                  </div>
              </div>
