@@ -441,7 +441,7 @@
 
 
 
-         <!-- <div class="galleryyy mt-5">
+         <!-- <div class="  yyy mt-5">
              <div class="container">
                  <div class="section-title one">
                      <h1 class="text-center">Gallery</h1>
@@ -1440,47 +1440,31 @@
 
                          <div class="swiper-slide">
                              <div class="testimonial-item">
-                                 <img src="assets/img/tripura/angry.png" class="img-fluid gImg">
+                                 <img src="assets/img/artho/g1.png" class="img-fluid gImg">
                              </div>
                          </div>
 
 
                          <div class="swiper-slide">
                              <div class="testimonial-item">
-                                 <img src="assets/img/tripura/anxiety.png" class="img-fluid gImg">
+                             <img src="assets/img/artho/g2.png" class="img-fluid gImg">
+
                              </div>
                          </div>
 
 
                          <div class="swiper-slide">
                              <div class="testimonial-item">
-                                 <img src="assets/img/tripura/dipression.png" class="img-fluid gImg">
+                             <img src="assets/img/artho/g3.png" class="img-fluid gImg">
+
                              </div>
                          </div>
 
 
                          <div class="swiper-slide">
                              <div class="testimonial-item">
-                                 <img src="assets/img/tripura/Excessive Mischievousness children.png"
-                                     class="img-fluid gImg">
-                             </div>
-                         </div>
+                             <img src="assets/img/artho/g4.png" class="img-fluid gImg">
 
-
-
-                         <div class="swiper-slide">
-                             <div class="testimonial-item">
-                                 <img src="assets/img/tripura/sleep_problem.png" class="img-fluid gImg">
-                             </div>
-                         </div>
-
-
-
-
-
-                         <div class=" swiper-slide">
-                             <div class="testimonial-item">
-                                 <img src="assets/img/tripura/Losing Concentration Easily.png" class="img-fluid gImg">
                              </div>
                          </div>
 
@@ -1488,17 +1472,16 @@
 
                          <div class="swiper-slide">
                              <div class="testimonial-item">
-                                 <img src="assets/img/tripura/nerve-weekness.png" class="img-fluid gImg">
-                             </div>
-                         </div>
+                             <img src="assets/img/artho/g5.png" class="img-fluid gImg">
 
-                         <div class="swiper-slide">
-                             <div class="testimonial-item">
-                                 <img src="assets/img/tripura/migren.png" class="img-fluid gImg">
                              </div>
                          </div>
 
 
+
+
+
+                          
 
 
 
