@@ -2598,5 +2598,13 @@ p.image_tetx_inside {
   font-weight: 500;
 }
 
+@media (max-width:768px) {
+  
+  .md_fractures{
+    text-align: center !important;
+  }
 
- 
+  .md_fractures_tt{
+    text-align: center !important;
+  }
+ }

@@ -244,7 +244,7 @@
                      <div class="col-md-8 mb-2">
 
                          <div class="service_text_heading">
-                             <h1 class="Fractures">Fractures</h1>
+                             <h1 class="Fractures md_fractures">Fractures</h1>
                          </div>
 
                          <div class="S1 swiper mt-4 mb-2" data-aos="fade-up" data-aos-delay="100">
@@ -288,7 +288,7 @@
 
 
                          <div class="service_text_heading">
-                             <h1 class="Fractures1">Primary and Revision Joint replacement</p>
+                             <h1 class="Fractures1 md_fractures_tt">Primary and Revision Joint replacement</p>
                          </div>
 
 
@@ -330,7 +330,7 @@
                  <div class="row spine360 mb-5 mt-5">
                      <div class="col-md-8 mb-2">
                          <div class="service_text_heading">
-                             <h1 class="Fractures">Arthroscopy and Sports Medicine</h1>
+                             <h1 class="Fractures md_fractures_tt">Arthroscopy and Sports Medicine</h1>
                          </div>
 
 
@@ -395,7 +395,7 @@
                      <div class="col-md-4"></div>
                      <div class="col-md-8 mb-2">
                          <div class="service_text_heading">
-                             <h1 class="Fractures1">Ortho biologics</h1>
+                             <h1 class="Fractures1 md_fractures">Ortho biologics</h1>
                          </div>
 
                          <div class="S1 swiper mt-4 mb-2" data-aos="fade-up" data-aos-delay="100">
@@ -1709,7 +1709,7 @@
                  <div class="row">
 
 
-                     <div class="col-xl-4 col-lg-4 col-md-6 col-5 footer-links">
+                     <div class="col-xl-4 col-lg-4 col-md-6 col-12 footer-links">
                          <h4>Dr.P.Manikumar</h4>
                          <ul>
 
@@ -1753,7 +1753,7 @@
 
                          </div>
                      </div>
-                     <div class="col-xl-4 col-lg-4 col-md-6 col-7 footer-links">
+                     <div class="col-xl-4 col-lg-4 col-md-6 col-12 footer-links">
                          <h4>Our Services</h4>
 
                          <ul>
