@@ -72,15 +72,17 @@
          <div class="carousel-inner cor_med" id="bb">
 
              <div class="carousel-item active ">
-                 <img src="assets/img/s1.png" class="d-block  img-fluid s1" alt="...">
+                 <img src="assets/img/artho/t1.png" class="d-block  img-fluid s1" alt="...">
 
              </div>
              <div class="carousel-item">
-                 <img src="assets/img/s2.jpg" class="d-block img-fluid   s1" alt="...">
+                 <img src="assets/img/artho/t3.png" class="d-block img-fluid   s1" alt="...">
 
              </div>
              <div class="carousel-item">
-                 <img src="assets/img/s3.jpg" class="d-block   img-fluid s1" alt="...">
+                 <img src="assets/img/artho/t4.png" class="d-block   img-fluid s1" alt="...">
+             </div> <div class="carousel-item">
+                 <img src="assets/img/artho/t5.png" class="d-block   img-fluid s1" alt="...">
              </div>
          </div>
          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
