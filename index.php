@@ -14,9 +14,10 @@
      <link href="assets/img/logo/2.png" rel="apple-touch-icon">
 
      <!-- Google Fonts -->
-     <link
-         href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
-         rel="stylesheet">
+     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=DM+Sans:ital,opsz,wght@0,9..40,100;0,9..40,200;0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;0,9..40,800;0,9..40,900;0,9..40,1000;1,9..40,100;1,9..40,200;1,9..40,300;1,9..40,400;1,9..40,500;1,9..40,600;1,9..40,700;1,9..40,800;1,9..40,900&family=Josefin+Sans:wght@100&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Salsa&display=swap" rel="stylesheet">
 
      <!-- Vendor CSS Files -->
      <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
@@ -31,9 +32,9 @@
      <link href="assets/css/style.css" rel="stylesheet">
 
      <style>
-     .fnt_wight {
-         font-weight: 600;
-     }
+         .fnt_wight {
+             font-weight: 600;
+         }
      </style>
  </head>
 
@@ -62,8 +63,7 @@
      </header><!-- End Header -->
 
      <!-- ======= Hero Section ======= -->
-     <div id="carouselExampleFade home" data-bs-interval="3000" class="carousel slide carousel-fade"
-         data-bs-ride="carousel">
+     <div id="carouselExampleFade home" data-bs-interval="3000" class="carousel slide carousel-fade" data-bs-ride="carousel">
          <div class="carousel-inner cor_med" id="bb">
 
              <div class="carousel-item active ">
@@ -99,7 +99,7 @@
                  <div class="section-title   only_margin_btm">
                      <h1 class="mt-5 pb-0 pt-5"> Dr.P.Manikumar</h1>
                  </div>
-                 <p class="Consultant mt-0">Consultant Robotic Joint Replacement & Arthroscopy Surgeon</p>
+                 <p class="Consultant mt-0 mb-4">Consultant Robotic Joint Replacement & Arthroscopy Surgeon</p>
                  <p class="para_font mt-4">
                      Dr Mani's ARTHRO 360° is one stop solution for all Orthopaedic Problems established in the
                      heart of Kakinada smart city with an idea to deliver exceptional care and treatment to the
@@ -177,8 +177,8 @@
          <section id="" class=" pt-5 mt-4">
              <div class="container" data-aos="fade-up">
 
-                 <div class="section-title "> 
-                     <h1 id="why_cjoosr" class=" pt-5  " >Why Choose Us ?</h1>
+                 <div class="section-title ">
+                     <h1 id="why_cjoosr" class=" pt-2  ">Why Choose Us ?</h1>
                  </div>
                  <div class="row spine360 mb-5 mt-2">
                      <div class="col-md-8 spineCol pt-5" data-aos="fade-left">
@@ -201,7 +201,7 @@
                              drive that propels us ahead on the path of bringing joy on the faces of people in need.
 
                          </p>
-                         <h4 class="why_spine">
+                         <!-- <h4 class="why_spine">
                              Competitive Price
 
                          </h4>
@@ -209,7 +209,7 @@
                              care in the lowest cost possible. We have low competitive price and best quality assured.
                              We have various packages for various surgeries and offer best yet economical medical
                              treatments
-                         </p>
+                         </p> -->
                      </div>
                      <div class="col-md-4">
                          <img src="assets/img/why.jpeg" alt="" class="whyimg">
@@ -219,6 +219,10 @@
 
              </div>
          </section>
+
+
+
+
 
          <section id="About" class="about  pt-5">
 
@@ -339,6 +343,52 @@
              </div>
          </section>
 
+
+
+
+
+         <!-- <div class="galleryyy mt-5">
+             <div class="container">
+                 <div class="section-title one">
+                     <h1 class="text-center">Gallery</h1>
+                 </div>
+                 <div class="row">
+                     <div class="header" id="myHeader">
+                      
+                     </div>
+
+                     <div class="row gridGallery">
+                         <div class="column">
+                             <img src="assets/img/s1.png" style="width:100%">
+                             <img src="assets/img/p2.jpeg" style="width:100%">
+                             <img src="assets/img/a1.jpg" style="width:100%">
+                             <img src="assets/img/s3.jpg" style="width:100%">
+                         </div>
+                         <div class="column">
+                             <img src="assets/img/p1.jpeg" style="width:100%">
+                             <img src="assets/img/p3.jpeg" style="width:100%">
+                             <img src="assets/img/s2.jpg" style="width:100%">
+                             <img src="assets/img/p5.jpeg" style="width:100%">
+                           
+                         </div>
+                         <div class="column">
+                             <img src="assets/img/a2.jpg" style="width:100%">
+                             <img src="assets/img/p4.jpeg" style="width:100%">
+                             <img src="assets/img/b2.jpg" style="width:100%">
+
+                         </div>
+                         <div class="column">
+                             <img src="assets/img/b4.jpg" style="width:100%">
+                             <img src="assets/img/b1.jpg" style="width:100%">
+                             <img src="assets/img/a3.jpg" style="width:100%">
+                            
+                         </div>
+                     </div>
+                 </div>
+             </div>
+         </div> -->
+
+         <!-- 
          <section class="my-5" id="Expertise">
              <div class="container">
                  <div class="section-title one">
@@ -501,7 +551,7 @@
                  </div>
              </div>
                    
-         </section>
+         </section> -->
 
 
          <!-- <section class="ftco-section    new_resp   " id="facilities2">
@@ -1092,7 +1142,49 @@
              </div>
          </section>` -->
 
+         <section>
+             <div class="container mt-5 mb-5">
+                 <div class="row">
+                     <div class="section-title one">
+                         <h1 class="latest_blogs_text_size mb-2">Our Latest Blogs</h1>
+                     </div>
 
+
+                     <?php
+                        include './db.connection/db_connection.php';
+                        // Fetch latest 3 blogs
+                        $sql = "SELECT * FROM blog ORDER BY time DESC LIMIT 3";
+                        $result = $conn->query($sql); ?>
+
+                     <?php while ($row = $result->fetch_assoc()) : ?>
+                         <div class="col-12 col-md-4 px-5 py-2">
+                             <div class="card h-100">
+                                 <video class="custom-video" autoplay muted controls style="width: 100%; height: auto">
+                                     <source src="admin/public/uploads/videos/<?php echo $row['video']; ?>" type="video/mp4" />
+                                     Your browser does not support the video tag.
+                                 </video>
+                                 <div class="card-body blogBody">
+                                     <h5 class="card-title bT"><?php echo $row['title']; ?></h5>
+                                 </div>
+
+                                 <div class="card-footer BlogFoot">
+                                     <small class="text-muted Bf">Posted On:
+                                         <?php echo date("F j, Y, g:i a", strtotime($row['time'])); ?></small>
+                                 </div>
+                             </div>
+                         </div>
+                     <?php endwhile; ?>
+
+                     <div class="d-flex flex-row justify-content-center mt-4">
+                         <a href="blogs.php">
+                             <p class="view_more_btn d-md-none">
+                                 View More<i class="fa-solid fa-arrow-right"></i>
+                             </p>
+                         </a>
+                     </div>
+                 </div>
+             </div>
+         </section>
 
 
          <!-- End Departments Section -->
@@ -1211,52 +1303,6 @@
 
          <!-- End Testimonials Section -->
 
-         <div class="galleryyy mt-5">
-             <div class="container">
-                 <div class="section-title one">
-                     <h1 class="text-center">Gallery</h1>
-                 </div>
-                 <div class="row">
-                     <div class="header" id="myHeader">
-                         <!-- <button class="btn active" onclick="two()">2</button> -->
-                         <!-- <button class="btn" onclick="four()">4</button> -->
-                     </div>
-
-                     <!-- Photo Grid -->
-                     <div class="row gridGallery">
-                         <div class="column">
-                             <img src="assets/img/s1.png" style="width:100%">
-                             <img src="assets/img/p2.jpeg" style="width:100%">
-                             <img src="assets/img/a1.jpg" style="width:100%">
-                             <img src="assets/img/s3.jpg" style="width:100%">
-                             <!--  -->
-                         </div>
-                         <div class="column">
-                             <img src="assets/img/p1.jpeg" style="width:100%">
-                             <img src="assets/img/p3.jpeg" style="width:100%">
-                             <img src="assets/img/s2.jpg" style="width:100%">
-                             <img src="assets/img/p5.jpeg" style="width:100%">
-                             <!-- <img src="assets/img/p6.jpeg" style="width:100%"> -->
-                             <!-- <img src="assets/img/p7.jpeg" style="width:100%"> -->
-                         </div>
-                         <div class="column">
-                             <img src="assets/img/a2.jpg" style="width:100%">
-                             <img src="assets/img/p4.jpeg" style="width:100%">
-                             <!-- <img src="assets/img/b3.jpg" style="width:100%"> -->
-                             <img src="assets/img/b2.jpg" style="width:100%">
-
-                         </div>
-                         <div class="column">
-                             <img src="assets/img/b4.jpg" style="width:100%">
-                             <img src="assets/img/b1.jpg" style="width:100%">
-                             <img src="assets/img/a3.jpg" style="width:100%">
-                             <!-- <img src="assets/img/b5.jpg" style="width:100%"> -->
-                             <!-- <img src="assets/img/b6.jpg" style="width:100%"> -->
-                         </div>
-                     </div>
-                 </div>
-             </div>
-         </div>
 
 
 
@@ -1267,34 +1313,135 @@
 
          <!-- ======= Appointment Section ======= -->
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         <!-- End Appointment Section -->
+
+
+
+         <!-- =======  Gallery Section ======= -->
+
+         <section id="gallery" class="appointment section-bg">
+             <div class="container" data-aos="fade-up">
+
+                 <div class="section-title mt-5">
+                     <h1>Gallery</h1>
+                 </div>
+
+                 <div class="gallery-slider swiper mt-5 mb-2" data-aos="fade-up" data-aos-delay="100">
+                     <div class="swiper-wrapper">
+
+                         <div class="swiper-slide">
+                             <div class="testimonial-item">
+                                 <img src="assets/img/tripura/angry.png" class="img-fluid gImg">
+                             </div>
+                         </div>
+
+
+                         <div class="swiper-slide">
+                             <div class="testimonial-item">
+                                 <img src="assets/img/tripura/anxiety.png" class="img-fluid gImg">
+                             </div>
+                         </div>
+
+
+                         <div class="swiper-slide">
+                             <div class="testimonial-item">
+                                 <img src="assets/img/tripura/dipression.png" class="img-fluid gImg">
+                             </div>
+                         </div>
+
+
+                         <div class="swiper-slide">
+                             <div class="testimonial-item">
+                                 <img src="assets/img/tripura/Excessive Mischievousness children.png" class="img-fluid gImg">
+                             </div>
+                         </div>
+
+
+
+                         <div class="swiper-slide">
+                             <div class="testimonial-item">
+                                 <img src="assets/img/tripura/sleep_problem.png" class="img-fluid gImg">
+                             </div>
+                         </div>
+
+
+
+
+
+                         <div class=" swiper-slide">
+                             <div class="testimonial-item">
+                                 <img src="assets/img/tripura/Losing Concentration Easily.png" class="img-fluid gImg">
+                             </div>
+                         </div>
+
+
+
+                         <div class="swiper-slide">
+                             <div class="testimonial-item">
+                                 <img src="assets/img/tripura/nerve-weekness.png" class="img-fluid gImg">
+                             </div>
+                         </div>
+
+                         <div class="swiper-slide">
+                             <div class="testimonial-item">
+                                 <img src="assets/img/tripura/migren.png" class="img-fluid gImg">
+                             </div>
+                         </div>
+
+
+
+
+
+
+
+                     </div>
+                     <br>
+                     <br>
+                     <div class="swiper-pagination mt-5"></div>
+                 </div>
+             </div>
+             </div>
+         </section>
+
+         <!-- End Gallery Section -->
+
          <section id="Appointment" class="Makeeee section-bg mt-5 pt-5 pb-5">
              <div class="container" data-aos="fade-up">
 
                  <div class="row">
                      <div class="col-md-7">
                          <div class="section-title ">
-                             <h1 class="appoitment_text_size mb-5">Make an Appointment</h1>
+                             <h1 class="appoitment_text_size mb-5 mt-4">Make an Appointment</h1>
                          </div>
-                         <form action="appointmentform.php" method="post" role="form" class="php-email-form"
-                             data-aos="fade-up" data-aos-delay="100">
+                         <form action="appointmentform.php" method="post" role="form" class="php-email-form" data-aos="fade-up" data-aos-delay="100">
                              <div class="row">
                                  <div class="col-md-4 form-group">
-                                     <input type="text" name="name" class="form-control" id="name"
-                                         placeholder="Your Name" required>
+                                     <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
                                  </div>
                                  <div class="col-md-4 form-group mt-3 mt-md-0">
-                                     <input type="email" class="form-control" name="email" id="email"
-                                         placeholder="Your Email" required>
+                                     <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
                                  </div>
                                  <div class="col-md-4 form-group mt-3 mt-md-0">
-                                     <input type="tel" class="form-control" name="phone" id="phone"
-                                         placeholder="Your Phone" required>
+                                     <input type="tel" class="form-control" name="phone" id="phone" placeholder="Your Phone" required>
                                  </div>
                              </div>
                              <div class="row">
                                  <div class="col-md-6 form-group mt-3">
-                                     <input type="date" name="date" class="form-control datepicker" id="date"
-                                         placeholder="Appointment Date" required>
+                                     <input type="date" name="date" class="form-control datepicker" id="date" placeholder="Appointment Date" required>
                                  </div>
                                  <div class="col-md-6 form-group mt-3">
                                      <select name="department" id="department" class="form-select" required>
@@ -1328,22 +1475,18 @@
                              </div>
 
                              <div class="form-group mt-3">
-                                 <textarea class="form-control" name="message" rows="5"
-                                     placeholder="Message (Optional)"></textarea>
+                                 <textarea class="form-control" name="message" rows="5" placeholder="Message (Optional)"></textarea>
                              </div>
                              <div class="my-3">
-                              </div>
-                             <div class="text-center appointment"><button type="submit" class="appointment-btn">Make an
+                             </div>
+                             <div class="text-center appointment"><button type="submit" class="appointment-btn mt-2">Make an
                                      Appointment</button>
                              </div>
                          </form>
                      </div>
                      <div class="col-md-5">
                          <div class="mappp">
-                             <iframe
-                                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3816.1346016020084!2d82.23436107515543!3d16.967928183849477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a382929e644d227%3A0xd518fad7d899f9b7!2sDr%20Mani&#39;s%20ARTHRO%20360%C2%B0%20Robotic%20Joint%20Replacement%20and%20Arthroscopy%20Clinic!5e0!3m2!1sen!2sin!4v1720863632969!5m2!1sen!2sin"
-                                 width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                                 referrerpolicy="no-referrer-when-downgrade"></iframe>
+                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3816.1346016020084!2d82.23436107515543!3d16.967928183849477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a382929e644d227%3A0xd518fad7d899f9b7!2sDr%20Mani&#39;s%20ARTHRO%20360%C2%B0%20Robotic%20Joint%20Replacement%20and%20Arthroscopy%20Clinic!5e0!3m2!1sen!2sin!4v1720863632969!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
                          </div>
@@ -1353,164 +1496,6 @@
 
              </div>
          </section>
-
-
-
-
-
-         <section>
-             <div class="container mt-5 mb-5">
-                 <div class="row">
-                     <div class="section-title one">
-                         <h1 class="latest_blogs_text_size">Our Latest Blogs</h1>
-                     </div>
-
-
-                     <?php
-                        include './db.connection/db_connection.php';
-                        // Fetch latest 3 blogs
-                        $sql = "SELECT * FROM blog ORDER BY time DESC LIMIT 3";
-                        $result = $conn->query($sql); ?>
-
-                     <?php while ($row = $result->fetch_assoc()) : ?>
-                     <div class="col-12 col-md-4 px-5 py-2">
-                         <div class="card h-100">
-                             <video class="custom-video" autoplay muted controls style="width: 100%; height: auto">
-                                 <source src="admin/public/uploads/videos/<?php echo $row['video']; ?>"
-                                     type="video/mp4" />
-                                 Your browser does not support the video tag.
-                             </video>
-                             <div class="card-body blogBody">
-                                 <h5 class="card-title bT"><?php echo $row['title']; ?></h5>
-                             </div>
-
-                             <div class="card-footer BlogFoot">
-                                 <small class="text-muted Bf">Posted On:
-                                     <?php echo date("F j, Y, g:i a", strtotime($row['time'])); ?></small>
-                             </div>
-                         </div>
-                     </div>
-                     <?php endwhile; ?>
-
-                     <div class="d-flex flex-row justify-content-center mt-4">
-                         <a href="blogs.php">
-                             <p class="view_more_btn d-md-none">
-                                 View More<i class="fa-solid fa-arrow-right"></i>
-                             </p>
-                         </a>
-                     </div>
-                 </div>
-             </div>
-         </section>
-
-
-
-         <!-- End Appointment Section -->
-
-
-
-         <!-- =======  Gallery Section ======= -->
-
-         <!-- <section id="gallery" class="appointment section-bg">
-             <div class="container" data-aos="fade-up">
-
-                 <div class="section-title one">
-                     <h1>Gallery</h1>
-                 </div>
-
-                 <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
-                     <div class="swiper-wrapper">
-
-                         <div class="swiper-slide">
-                             <div class="testimonial-item">
-                                 <img src="assets/img/tripura/angry.png" class="img-fluid">
-                             </div>
-                         </div>
-
-
-                         <div class="swiper-slide">
-                             <div class="testimonial-item">
-                                 <img src="assets/img/tripura/anxiety.png" class="img-fluid">
-                             </div>
-                         </div>
-
-
-                         <div class="swiper-slide">
-                             <div class="testimonial-item">
-                                 <img src="assets/img/tripura/dipression.png" class="img-fluid">
-                             </div>
-                         </div>
-
-
-                         <div class="swiper-slide">
-                             <div class="testimonial-item">
-                                 <img src="assets/img/tripura/Excessive Mischievousness children.png" class="img-fluid">
-                             </div>
-                         </div>
-
-
-
-                         <div class="swiper-slide">
-                             <div class="testimonial-item">
-                                 <img src="assets/img/tripura/sleep_problem.png" class="img-fluid" ">
-              </div>
-            </div>
-            
-
-       
-
-
-              <div class=" swiper-slide">
-                                 <div class="testimonial-item">
-                                     <img src="assets/img/tripura/Losing Concentration Easily.png" class="img-fluid">
-                                 </div>
-                             </div>
-
-
-
-                             <div class="swiper-slide">
-                                 <div class="testimonial-item">
-                                     <img src="assets/img/tripura/nerve-weekness.png" class="img-fluid">
-                                 </div>
-                             </div>
-
-                             <div class="swiper-slide">
-                                 <div class="testimonial-item">
-                                     <img src="assets/img/tripura/migren.png" class="img-fluid">
-                                 </div>
-                             </div>
-                             <div class="swiper-slide">
-                                 <div class="testimonial-item">
-                                     <img src="assets/img/tripura/stress.png" class="img-fluid">
-                                 </div>
-                             </div>
-
-                             <div class=" swiper-slide">
-                                 <div class="testimonial-item">
-                                     <img src="assets/img/tripura/person-feeling-anxiety-induced-by-book-studying_23-2150982003.png"
-                                         class="img-fluid">
-                                 </div>
-                             </div>
-
-
-                             <div class="swiper-slide">
-                                 <div class="testimonial-item">
-                                     <img src="assets/img/tripura/fear.png" class="img-fluid">
-                                 </div>
-                             </div>
-
-                         </div>
-                         <br>
-                         <br>
-                         <div class="swiper-pagination mt-5"></div>
-                     </div>
-                 </div>
-             </div>
-         </section> -->
-
-         <!-- End Gallery Section -->
-
-
 
 
          <!-- ======= Contact Section ======= -->
@@ -1585,26 +1570,21 @@
                          <form action="contactform .php" method="post" role="form" class="php-email-form">
                              <div class="row">
                                  <div class="col-md-6 form-group">
-                                     <input type="text" name="contactname" class="form-control" id="name"
-                                         placeholder="Your Name" required="">
+                                     <input type="text" name="contactname" class="form-control" id="name" placeholder="Your Name" required="">
                                  </div>
                                  <div class="col-md-6 form-group mt-3 mt-md-0">
-                                     <input type="email" class="form-control" name="contactemail" id="email"
-                                         placeholder="Your Email" required="">
+                                     <input type="email" class="form-control" name="contactemail" id="email" placeholder="Your Email" required="">
                                  </div>
 
                                  <div class="col-md-6 form-group mt-3">
-                                     <input type="text" class="form-control" name="contactsubject" id="subject"
-                                         placeholder="Subject">
+                                     <input type="text" class="form-control" name="contactsubject" id="subject" placeholder="Subject">
                                  </div>
                                  <div class="col-md-6 form-group mt-3">
-                                     <input type="text" class="form-control" name="contactnumber" id="number"
-                                         placeholder="Phone" required="">
+                                     <input type="text" class="form-control" name="contactnumber" id="number" placeholder="Phone" required="">
                                  </div>
                              </div>
                              <div class="form-group mt-3">
-                                 <textarea class="form-control" name="contactmessage" rows="7" placeholder="Message"
-                                     required=""></textarea>
+                                 <textarea class="form-control" name="contactmessage" rows="7" placeholder="Message" required=""></textarea>
                              </div>
                              <div class="my-3">
                                  <div class="loading">Loading</div>
@@ -1628,98 +1608,96 @@
 
      <!-- ======= Footer ======= -->
      <footer id="footer">
-         <div class="footer-top mt-5" ">
+         <div class="footer-top mt-5">
              <div class=" container">
-             <div class="row">
+                 <div class="row">
 
 
-                 <div class="col-xl-4 col-lg-4 col-md-6 col-5 footer-links">
-                     <h4>Dr.P.Manikumar</h4>
-                     <ul>
+                     <div class="col-xl-4 col-lg-4 col-md-6 col-5 footer-links">
+                         <h4>Dr.P.Manikumar</h4>
+                         <ul>
 
-                         <li>
-                             <i class="bx bx-chevron-right"></i>
-                             <a href="#facilities">MBBS</a>
-                         </li>
-                         <li>
-                             <i class="bx bx-chevron-right"></i>
-                             <a href="#facilities"> MS Ortho(RMC)</a>
-                         </li>
-                         <li>
-                             <i class="bx bx-chevron-right"></i>
-                             <a href=" #facilities">Followship in ROBOTIC </a>
-                         </li>
-                         <li>
-                             <i class="bx bx-chevron-right"></i>
-                             <a href=" #facilities"> Joint Replacement (FIRJR)</a>
-                         </li>
-                         <li>
-                             <i class="bx bx-chevron-right"></i>
-                             <a href=" #facilities">Followship in Arthroscopy and Sports Medicine (FIAS)</a>
-                         </li>
-                         <li>
-                             <i class="bx bx-chevron-right"></i>
-                             <a href=" #facilities">Fellowship in Shoulder Surgery(FISS)</a>
-                         </li>
+                             <li>
+                                 <i class="bx bx-chevron-right"></i>
+                                 <a href="#facilities">MBBS</a>
+                             </li>
+                             <li>
+                                 <i class="bx bx-chevron-right"></i>
+                                 <a href="#facilities"> MS Ortho(RMC)</a>
+                             </li>
+                             <li>
+                                 <i class="bx bx-chevron-right"></i>
+                                 <a href=" #facilities">Followship in ROBOTIC </a>
+                             </li>
+                             <li>
+                                 <i class="bx bx-chevron-right"></i>
+                                 <a href=" #facilities"> Joint Replacement (FIRJR)</a>
+                             </li>
+                             <li>
+                                 <i class="bx bx-chevron-right"></i>
+                                 <a href=" #facilities">Followship in Arthroscopy and Sports Medicine (FIAS)</a>
+                             </li>
+                             <li>
+                                 <i class="bx bx-chevron-right"></i>
+                                 <a href=" #facilities">Fellowship in Shoulder Surgery(FISS)</a>
+                             </li>
 
 
-                     </ul>
-                 </div>
-                 <div class="col-xl-4 col-lg-4 col-md-6 d-flex flex-column justify-content-center">
-                     <div class="footer-info d-none d-xl-block ">
-                         <a href="index.php" class="logo me-auto "><img src="assets/img/logo/2.png"
-                                 style="height:150px;" alt=""></a>
-
+                         </ul>
                      </div>
-                     <div class="footer-info d-block d-xl-none">
-                         <a href="index.php" class="logo me-auto "><img src="assets/img/logo/2.png" class="img-fluid"
-                                 alt=""></a>
+                     <div class="col-xl-4 col-lg-4 col-md-6 d-flex flex-column justify-content-center">
+                         <div class="footer-info d-none d-xl-block ">
+                             <a href="index.php" class="logo me-auto "><img src="assets/img/logo/2.png" style="height:150px;" alt=""></a>
 
+                         </div>
+                         <div class="footer-info d-block d-xl-none">
+                             <a href="index.php" class="logo me-auto "><img src="assets/img/logo/2.png" class="img-fluid" alt=""></a>
+
+                         </div>
                      </div>
+                     <div class="col-xl-4 col-lg-4 col-md-6 col-7 footer-links">
+                         <h4>Our Services</h4>
+
+                         <ul>
+                             <li>
+                                 <i class="bx bx-chevron-right"></i>
+                                 <a href=" #facilities">Fractures
+                                     Pelviacetabular trauma
+                                     Non Unions
+                                     Deformity corrections</a>
+                             </li>
+                             <li>
+                                 <i class="bx bx-chevron-right"></i>
+                                 <a href=" #facilities">Primary and Revision Joint replacement Knee replacement pic
+                                     Hip replacement pic
+                                     Shoulder replacement pic </a>
+                             </li>
+                             <li>
+                                 <i class="bx bx-chevron-right"></i>
+                                 <a href=" #facilities">Arthroscopy and Sports Medicine
+                                     ACL reconstruction
+                                     PCL reconstruction
+                                     MCL and LCL reconstruction
+                                     Meniscus Surgery
+                                     Rotator cuff repair
+                                     Bankart's repair
+                                     SLAP repair</a>
+                             </li>
+                             <li>
+                                 <i class="bx bx-chevron-right"></i>
+                                 <a href=" #facilities">Ortho biologics
+                                     Prp treatments
+                                     BMAC procedures</a>
+                             </li>
+
+
+                         </ul>
+                     </div>
+
+
+
                  </div>
-                 <div class="col-xl-4 col-lg-4 col-md-6 col-7 footer-links">
-                     <h4>Our Services</h4>
-
-                     <ul>
-                         <li>
-                             <i class="bx bx-chevron-right"></i>
-                             <a href=" #facilities">Fractures
-                                 Pelviacetabular trauma
-                                 Non Unions
-                                 Deformity corrections</a>
-                         </li>
-                         <li>
-                             <i class="bx bx-chevron-right"></i>
-                             <a href=" #facilities">Primary and Revision Joint replacement Knee replacement pic
-                                 Hip replacement pic
-                                 Shoulder replacement pic </a>
-                         </li>
-                         <li>
-                             <i class="bx bx-chevron-right"></i>
-                             <a href=" #facilities">Arthroscopy and Sports Medicine
-                                 ACL reconstruction
-                                 PCL reconstruction
-                                 MCL and LCL reconstruction
-                                 Meniscus Surgery
-                                 Rotator cuff repair
-                                 Bankart's repair
-                                 SLAP repair</a>
-                         </li>
-                         <li>
-                             <i class="bx bx-chevron-right"></i>
-                             <a href=" #facilities">Ortho biologics
-                                 Prp treatments
-                                 BMAC procedures</a>
-                         </li>
-
-
-                     </ul>
-                 </div>
-
-
-
              </div>
-         </div>
          </div>
 
 
@@ -1740,8 +1718,7 @@
                              <p class="mini_text" style="color:#ffffff"> ©2024 Dr.P.Manikumar. All Rights
                                  Reserved.
                                  Designed &
-                                 Developed by <a href="https://bhavicreations.com/" target="_blank"
-                                     style="text-decoration: none;color:#ffffff">Bhavi
+                                 Developed by <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none;color:#ffffff">Bhavi
                                      Creations</a></p>
                          </div>
                      </div>
@@ -1769,53 +1746,52 @@
      <button id="scrollBtn" onclick="scrollToTop()"><i class="fa-solid fa-arrow-up "></i></button>
 
      <script>
-     // Function to scroll to the top of the page
-     function scrollToTop() {
-         window.scrollTo({
-             top: 0,
-             behavior: 'smooth' // Optional, smooth scrolling animation
-         });
-     }
-
-     // Show scroll button when scrolling down
-     window.onscroll = function() {
-         scrollFunction()
-     };
-
-     function scrollFunction() {
-         if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-             document.getElementById("scrollBtn").style.display = "block";
-         } else {
-             document.getElementById("scrollBtn").style.display = "none";
+         // Function to scroll to the top of the page
+         function scrollToTop() {
+             window.scrollTo({
+                 top: 0,
+                 behavior: 'smooth' // Optional, smooth scrolling animation
+             });
          }
-     }
+
+         // Show scroll button when scrolling down
+         window.onscroll = function() {
+             scrollFunction()
+         };
+
+         function scrollFunction() {
+             if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                 document.getElementById("scrollBtn").style.display = "block";
+             } else {
+                 document.getElementById("scrollBtn").style.display = "none";
+             }
+         }
      </script>
 
      <style>
-     #scrollBtn {
-         display: none;
-         /* Initially hide the button */
-         position: fixed;
-         /* Fix the position of the button */
-         bottom: 20px;
-         /* Adjust the bottom distance */
-         right: 20px;
-         /* Adjust the right distance */
-         z-index: 999;
-         /* Set a high z-index to ensure the button is on top */
-         padding: 10px 15px;
-         background-color: #01539D;
-         ;
-         color: white;
-         border: none;
-         border-radius: 50%;
-         cursor: pointer;
-     }
+         #scrollBtn {
+             display: none;
+             /* Initially hide the button */
+             position: fixed;
+             /* Fix the position of the button */
+             bottom: 20px;
+             /* Adjust the bottom distance */
+             right: 20px;
+             /* Adjust the right distance */
+             z-index: 999;
+             /* Set a high z-index to ensure the button is on top */
+             padding: 10px 15px;
+             background-color: #01539D;
+             ;
+             color: white;
+             border: none;
+             border-radius: 50%;
+             cursor: pointer;
+         }
      </style>
 
 
-     <a href="https://api.whatsapp.com/send?phone=919974922749" style="color: #fff;" class="whatsapp-link"
-         target="_blank">
+     <a href="https://api.whatsapp.com/send?phone=919974922749" style="color: #fff;" class="whatsapp-link" target="_blank">
          <i class="fab fa-whatsapp"></i>
      </a>
 
@@ -1834,47 +1810,47 @@
      <!-- Template Main JS File -->
      <script src="assets/js/main.js"></script>
      <script>
-     $('li').click(function() {
-         $('li').removeClass('active');
-         $(this).addClass('active');
-     });
+         $('li').click(function() {
+             $('li').removeClass('active');
+             $(this).addClass('active');
+         });
      </script>
      <script>
-     // Get the elements with class="column"
-     var elements = document.getElementsByClassName("column");
+         // Get the elements with class="column"
+         var elements = document.getElementsByClassName("column");
 
-     // Declare a loop variable
-     var i;
+         // Declare a loop variable
+         var i;
 
-     // Full-width images
+         // Full-width images
 
 
-     // Two images side by side
-     function two() {
-         for (i = 0; i < elements.length; i++) {
-             elements[i].style.msFlex = "30%"; // IE10
-             elements[i].style.flex = "30%";
+         // Two images side by side
+         function two() {
+             for (i = 0; i < elements.length; i++) {
+                 elements[i].style.msFlex = "30%"; // IE10
+                 elements[i].style.flex = "30%";
+             }
          }
-     }
 
-     // Four images side by side
-     function four() {
-         for (i = 0; i < elements.length; i++) {
-             elements[i].style.msFlex = "25%"; // IE10
-             elements[i].style.flex = "25%";
+         // Four images side by side
+         function four() {
+             for (i = 0; i < elements.length; i++) {
+                 elements[i].style.msFlex = "25%"; // IE10
+                 elements[i].style.flex = "25%";
+             }
          }
-     }
 
-     // Add active class to the current button (highlight it)
-     var header = document.getElementById("myHeader");
-     var btns = header.getElementsByClassName("btn");
-     for (var i = 0; i < btns.length; i++) {
-         btns[i].addEventListener("click", function() {
-             var current = document.getElementsByClassName("active");
-             current[0].className = current[0].className.replace(" active", "");
-             this.className += " active";
-         });
-     }
+         // Add active class to the current button (highlight it)
+         var header = document.getElementById("myHeader");
+         var btns = header.getElementsByClassName("btn");
+         for (var i = 0; i < btns.length; i++) {
+             btns[i].addEventListener("click", function() {
+                 var current = document.getElementsByClassName("active");
+                 current[0].className = current[0].className.replace(" active", "");
+                 this.className += " active";
+             });
+         }
      </script>
  </body>
 

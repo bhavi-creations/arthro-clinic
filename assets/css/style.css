@@ -175,6 +175,23 @@ h6 {
   /* border-bottom-left-radius: 200px;
   border-bottom-right-radius: 200px; */
   box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+  /* background: linear-gradient(
+    to left bottom,
+    #2aa5e4,
+    #5eafe3,
+    #89c4f5,
+    #a3cef9,
+    #c4daf6,
+    #c4daf6,
+    #c4daf6,
+    #cee3ff,
+    #deeaf9,
+    #e0eeff,
+    #dee9f8,
+    #e1eaf5
+  ); */
+  background: white;
+  box-shadow: rgb(102, 193, 246) 0px 5px, rgb(157, 212, 244) 0px 10px;
 }
 
 @media (max-width: 992px) {
@@ -206,7 +223,7 @@ h6 {
 
 #header .logo img {
   /* height: 50px; */
-  width: 22%;
+  width: 28%;
 }
 /**
 * Appointment Button
@@ -219,9 +236,10 @@ h6 {
   padding: 8px 25px;
   white-space: nowrap;
   transition: 0.3s;
-  font-size: 14px;
+  font-size: 15px;
   display: inline-block;
-  font-family: "Poppins";
+  font-family: "Roboto";
+  border: none;
 }
 
 .appointment-btn:hover {
@@ -264,13 +282,13 @@ h6 {
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  font-family: "Poppins";
-  font-size: 15px;
+  font-family: "Roboto";
+  font-size: 16px;
   color: #100f0f;
   white-space: nowrap;
   transition: 0.3s;
   text-transform: uppercase;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .navbar a i,
@@ -663,7 +681,7 @@ section {
 }
 
 .section-bg {
-  background-color: rgb(224 243 254);
+  /* background-color: rgb(224 243 254); */
 }
 
 .section-title {
@@ -894,6 +912,10 @@ section {
 
 .about .content ul li {
   padding-bottom: 10px;
+  text-align: justify;
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 500;
 }
 
 .about .content ul i {
@@ -1267,6 +1289,7 @@ section {
   font-weight: bold;
   margin: 10px 0 5px 45px;
   color: #111;
+  font-family: "Roboto";
 }
 
 .testimonials .testimonial-item h4 {
@@ -1302,22 +1325,9 @@ section {
   border-radius: 6px;
   position: relative;
   z-index: 1;
-  font-family: "Poppins";
-  /* background-image: linear-gradient(
-    to left,
-    #e9f0b7,
-    #e7eeb4,
-    #e4ecb2,
-    #e2eaaf,
-    #dfe8ad,
-    #e0e9b1,
-    #e1e9b4,
-    #e2eab8,
-    #e6edc3,
-    #eaf0cd,
-    #eef2d8,
-    #f2f5e2
-  ); */
+  font-family: "Roboto";
+  /* background-image: linear-gradient(to left, #e9f0b7, #e7eeb4, #e4ecb2, #e2eaaf, #dfe8ad, #e0e9b1, #e1e9b4, #e2eab8, #e6edc3, #eaf0cd, #eef2d8, #f2f5e2); */
+  font-size: 17px;
 }
 
 .testimonials .swiper-pagination {
@@ -1676,10 +1686,10 @@ section {
 .contact .info-box p {
   padding: 0;
   line-height: 24px;
-  font-size: 14px;
+  font-size: 16px;
   margin-bottom: 0;
-  font-family: "Poppins";
-  font-weight: 900;
+  font-family: "Roboto";
+  font-weight: 600;
 }
 
 .contact .php-email-form {
@@ -1788,7 +1798,21 @@ section {
 }
 
 #footer .footer-top {
-  background: rgb(218 231 248) !important;
+  background: linear-gradient(
+    to left bottom,
+    #2aa5e4,
+    #5eafe3,
+    #9dcff8,
+    #b1d2f4,
+    #c4daf6,
+    #c4daf6,
+    #c4daf6,
+    #c4daf6,
+    #b2d4f7,
+    #9dcff8,
+    #5eb5ed,
+    #34a9e4
+  );
   padding: 60px 0 30px 0;
 }
 
@@ -1834,11 +1858,11 @@ section {
 }
 
 #footer .footer-top h4 {
-  font-size: 16px;
+  font-size: 19px;
   font-weight: 700;
   position: relative;
   padding-bottom: 12px;
-  font-family: "Poppins";
+  font-family: "Roboto";
 }
 
 #footer .footer-top .footer-links {
@@ -1873,7 +1897,7 @@ section {
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
-  font-family: "Poppins";
+  font-family: "Roboto";
   font-weight: 500;
 }
 
@@ -1973,14 +1997,17 @@ section {
 }
 
 .poetsen_font {
-  font-family: "Poppins";
-  font-weight: 700;
+  font-family: "Roboto";
+  font-weight: 800;
+  font-size: 17px;
 }
 
 .para_font {
-  font-family: "Poppins";
+  font-family: "Roboto";
   font-weight: 500;
-  line-height: 25px;
+  line-height: 26px;
+  font-size: 18px;
+  text-align: center;
 }
 
 .scrollable-div {
@@ -2143,7 +2170,7 @@ h1 {
   -webkit-transition: all 0.4s ease 0s;
   -o-transition: all 0.4s ease 0s;
   transition: all 0.4s ease 0s;
-  word-spacing: 12px;
+  word-spacing: 8px;
 }
 .nav-link-wrap {
   background-color: rgb(255 255 255);
@@ -2363,10 +2390,12 @@ h5.card-title.bT {
   color: #265a96;
   font-size: 23px;
   /* text-align: center; */
+  font-family: "Roboto";
 }
 small.text-muted.Bf {
   color: white !important;
   text-align: center !important;
+  font-size: 15px;
 }
 
 @media (max-width: 1200px) {
@@ -2393,8 +2422,8 @@ small.text-muted.Bf {
   /* align-items: center; */
 }
 .why_spine {
-  font-family: math;
-  font-weight: 800;
+  font-family: "Roboto";
+  font-weight: 600;
   /* font-size: 25px; */
   color: #1e5492;
   text-decoration: underline;
@@ -2408,11 +2437,12 @@ small.text-muted.Bf {
 }
 p.solution {
   color: black;
-  font-size: 15px;
-  font-family: "Poppins";
-  font-weight: 500;
+  font-size: 18px;
+  font-family: "Roboto";
+  font-weight: 400;
   margin-left: 30px;
   margin-bottom: 30px;
+  margin-top: 15px;
 }
 
 @media (max-width: 768px) {
@@ -2495,12 +2525,16 @@ li.solution {
   color: #153860;
 }
 
-@media (max-width:768px) {
-  
-  #change_text_size{
+@media (max-width: 768px) {
+  #change_text_size {
     font-size: 36px;
   }
-  #choose_us{
-font-size: 35px;
+  #choose_us {
+    font-size: 35px;
   }
+}
+img.img-fluid.gImg {
+  border: 4px solid #1e5492;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
