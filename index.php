@@ -49,14 +49,14 @@
          <div class="container d-flex align-items-center ">
              <a href="index.php" class="logo me-auto">
                  <img src="assets/img/logo/2.png" alt="" class="img-fluid image_size">
-                 
+
 
              </a>
              <nav id="navbar" class="navbar order-lg-0 ">
                  <ul>
                      <li><a class="nav-link scrollto " href="#home">Home</a></li>
                      <li><a class="nav-link scrollto  " href="#About">About</a></li>
-                     <li><a class="nav-link scrollto  " href="#Expertise">Expertise In</a></li>
+                     <li><a class="nav-link scrollto  " href="#Services">Services</a></li>
                      <li><a class="nav-link scrollto  " href="#Testimonial">Testimonial</a></li>
                      <li><a class="nav-link scrollto  " href="blogs.php">Blogs</a></li>
                      <li><a class="nav-link scrollto " href="#Contact">Contact</a></li>
@@ -83,7 +83,8 @@
              </div>
              <div class="carousel-item">
                  <img src="assets/img/artho/t4.png" class="d-block   img-fluid s1" alt="...">
-             </div> <div class="carousel-item">
+             </div>
+             <div class="carousel-item">
                  <img src="assets/img/artho/t5.png" class="d-block   img-fluid s1" alt="...">
              </div>
          </div>
@@ -233,7 +234,7 @@
 
 
 
-         <section id="About" class="about  pt-5">
+         <section id="Services" class="about  pt-5">
 
              <div class="container" data-aos="fade-up">
 
@@ -1449,7 +1450,7 @@
 
                          <div class="swiper-slide">
                              <div class="testimonial-item">
-                             <img src="assets/img/artho/g2.png" class="img-fluid gImg">
+                                 <img src="assets/img/artho/g2.png" class="img-fluid gImg">
 
                              </div>
                          </div>
@@ -1457,7 +1458,7 @@
 
                          <div class="swiper-slide">
                              <div class="testimonial-item">
-                             <img src="assets/img/artho/g3.png" class="img-fluid gImg">
+                                 <img src="assets/img/artho/g3.png" class="img-fluid gImg">
 
                              </div>
                          </div>
@@ -1465,7 +1466,7 @@
 
                          <div class="swiper-slide">
                              <div class="testimonial-item">
-                             <img src="assets/img/artho/g4.png" class="img-fluid gImg">
+                                 <img src="assets/img/artho/g4.png" class="img-fluid gImg">
 
                              </div>
                          </div>
@@ -1474,7 +1475,7 @@
 
                          <div class="swiper-slide">
                              <div class="testimonial-item">
-                             <img src="assets/img/artho/g5.png" class="img-fluid gImg">
+                                 <img src="assets/img/artho/g5.png" class="img-fluid gImg">
 
                              </div>
                          </div>
@@ -1483,7 +1484,7 @@
 
 
 
-                          
+
 
 
 

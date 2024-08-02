@@ -76,7 +76,7 @@ $result = $conn->query($sql);
                 <ul>
                     <li><a class="nav-link scrollto " href="index.php">Home</a></li>
                     <li><a class="nav-link scrollto  " href="index.php">About</a></li>
-                    <li><a class="nav-link scrollto  " href="index.php">Expertise In</a></li>
+                    <li><a class="nav-link scrollto  " href="index.php">Services</a></li>
                     <li><a class="nav-link scrollto  " href="index.php">Testimonial</a></li>
                     <li><a class="nav-link scrollto  " href="blogs.php">Blogs</a></li>
                     <li><a class="nav-link scrollto " href="index.php">Contact</a></li>
