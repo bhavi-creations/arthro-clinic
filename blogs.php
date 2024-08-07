@@ -68,25 +68,27 @@ $result = $conn->query($sql);
 
     <!-- ======= Header ======= -->
     <header id="header" class="fixed-top ">
-        <div class="container d-flex align-items-center ">
-            <a href="index.php" class="logo me-auto">
-                <img src="assets/img/logo/2.png" alt="">
-            </a>
-            <nav id="navbar" class="navbar order-lg-0 ">
-                <ul>
-                    <li><a class="nav-link scrollto " href="index.php">Home</a></li>
-                    <li><a class="nav-link scrollto  " href="index.php">About</a></li>
-                    <li><a class="nav-link scrollto  " href="index.php">Services</a></li>
-                    <li><a class="nav-link scrollto  " href="index.php">Testimonial</a></li>
-                    <li><a class="nav-link scrollto  " href="blogs.php">Blogs</a></li>
-                    <li><a class="nav-link scrollto " href="index.php">Contact</a></li>
-                </ul>
-                <i class="bi bi-list mobile-nav-toggle"></i>
-            </nav><!-- .navbar -->
-            <a href="#appointment" class="appointment-btn scrollto"><span class="d-none d-md-inline">Make an</span>
-                Appointment</a>
-        </div>
-    </header>
+      <div class="container d-flex align-items-center ">
+          <a href="index.php" class="logo me-auto">
+              <img src="assets/img/logo/2.png" alt="" class="img-fluid image_size">
+
+
+          </a>
+          <nav id="navbar" class="navbar order-lg-0 ">
+              <ul>
+                  <li><a class="nav-link scrollto " href="index.php">Home</a></li>
+                  <li><a class="nav-link scrollto  " href="index.php#About">About</a></li>
+                  <li><a class="nav-link scrollto  " href="index.php#Services">Services</a></li>
+                  <li><a class="nav-link scrollto  " href="index.php#Testimonial">Testimonial</a></li>
+                  <li><a class="nav-link scrollto  " href="blogs.php">Blogs</a></li>
+                  <li><a class="nav-link scrollto " href="index.php#Contact">Contact</a></li>
+              </ul>
+              <i class="bi bi-list mobile-nav-toggle"></i>
+          </nav><!-- .navbar -->
+          <a href="index.php#Appointment" class="appointment-btn scrollto"><span class="d-none d-md-inline">Make an</span>
+              Appointment</a>
+      </div>
+  </header>
     <!-- End Header -->
 
     <main>
@@ -309,165 +311,144 @@ $result = $conn->query($sql);
 
     <!-- ======= Footer ======= -->
     <footer id="footer">
-        <div class="footer-top mt-5" style="background-color:rgb(242 252 255);">
-            <div class="container">
-                <div class="row">
-
-                    <div class="col-xl-4 col-lg-3 col-md-6 d-flex flex-column justify-content-center">
-                        <div class="footer-info d-none d-xl-block">
-                            <a href="index.php" class="logo me-auto "><img src="assets/img/logo/2.png"
-                                    style="height:150px;" alt=""></a>
-
-                        </div>
-                        <div class="footer-info d-block d-xl-none">
-                            <a href="index.php" class="logo me-auto "><img src="assets/img/logo/2.png" class="img-fluid"
-                                    alt=""></a>
-
-                        </div>
-                    </div>
-                    <div class="col-xl-2 col-lg-2 col-md-6 col-5 footer-links">
-                        <h4>Dr.P.Manikumar</h4>
-                        <ul>
-
-                            <li>
-                                <i class="bx bx-chevron-right"></i>
-                                <a href="#facilities">MBBS</a>
-                            </li>
-                            <li>
-                                <i class="bx bx-chevron-right"></i>
-                                <a href="#facilities"> MS Ortho(RMC)</a>
-                            </li>
-                            <li>
-                                <i class="bx bx-chevron-right"></i>
-                                <a href=" #facilities">Followship in ROBOTIC </a>
-                            </li>
-                            <li>
-                                <i class="bx bx-chevron-right"></i>
-                                <a href=" #facilities"> Joint Replacement (FIRJR)</a>
-                            </li>
-                            <li>
-                                <i class="bx bx-chevron-right"></i>
-                                <a href=" #facilities">Followship in Arthroscopy and Sports Medicine (FIAS)</a>
-                            </li>
-                            <li>
-                                <i class="bx bx-chevron-right"></i>
-                                <a href=" #facilities">Fellowship in Shoulder Surgery(FISS)</a>
-                            </li>
+         <div class="footer-top mt-5">
+             <div class=" container">
+                 <div class="row">
 
 
-                        </ul>
-                    </div>
+                     <div class="col-xl-4 col-lg-4 col-md-6 col-12 footer-links">
+                         <h4>Dr.P.Manikumar</h4>
+                         <ul>
 
-                    <div class="col-xl-3 col-lg-3 col-md-6 col-7 footer-links">
-                        <h4>Our Services</h4>
+                             <li>
+                                 <i class="bx bx-chevron-right"></i>
+                                 <a href="#facilities">MBBS</a>
+                             </li>
+                             <li>
+                                 <i class="bx bx-chevron-right"></i>
+                                 <a href="#facilities"> MS Ortho(RMC)</a>
+                             </li>
+                             <li>
+                                 <i class="bx bx-chevron-right"></i>
+                                 <a href=" #facilities">Followship in ROBOTIC </a>
+                             </li>
+                             <li>
+                                 <i class="bx bx-chevron-right"></i>
+                                 <a href=" #facilities"> Joint Replacement (FIRJR)</a>
+                             </li>
+                             <li>
+                                 <i class="bx bx-chevron-right"></i>
+                                 <a href=" #facilities">Followship in Arthroscopy and Sports Medicine (FIAS)</a>
+                             </li>
+                             <li>
+                                 <i class="bx bx-chevron-right"></i>
+                                 <a href=" #facilities">Fellowship in Shoulder Surgery(FISS)</a>
+                             </li>
 
-                        <ul>
-                            <li>
-                                <i class="bx bx-chevron-right"></i>
-                                <a href=" #facilities">Robotic Knees Replacement</a>
-                            </li>
-                            <li>
-                                <i class="bx bx-chevron-right"></i>
-                                <a href=" #facilities">Primary
-                                    and revision Hip & Knee Arthroplastry</a>
-                            </li>
-                            <li>
-                                <i class="bx bx-chevron-right"></i>
-                                <a href=" #facilities">Arthroscopic Rotator Cuff repair</a>
-                            </li>
-                            <li>
-                                <i class="bx bx-chevron-right"></i>
-                                <a href=" #facilities">Arthroscopic Bankart's repair</a>
-                            </li>
-                            <li>
-                                <i class="bx bx-chevron-right"></i>
-                                <a href=" #facilities">ACL,
-                                    PCL
-                                    Meniscus Surgery</a>
-                            </li>
 
-                            <li>
-                                <i class="bx bx-chevron-right"></i>
-                                <a href=" #facilities">Sports
-                                    Medicine</a>
-                            </li>
-                            <li>
-                                <i class="bx bx-chevron-right"></i>
-                                <a href=" #facilities">Complex
-                                    and pelviacetabular trauma</a>
-                            </li>
+                         </ul>
+                     </div>
 
-                        </ul>
-                    </div>
 
-                    <div class="col-xl-3 col-lg-4 col-md-6 footer-newsletter footerbgcolor">
-                        <h4>Contact us</h4>
-                        <p class="mt-2">
-                            <span class="phone_email"> <strong>Phone:</strong></span> <span class="mini_text">+91
-                                9494680890 /
-                                +91 9974922749</span>
-                            <br>
-                            <span class="phone_email"> <strong>Email:</strong></span> <span class="mini_text">
-                                drpmanikumar@gmail.com</span> <br>
-                        </p>
-                        <p class="mt-4 mini_text">
+                     <div class="col-xl-4 col-lg-4 col-md-6 d-flex flex-column justify-content-center">
+                         <div class="footer-info d-none d-xl-block">
+                             <a href="index.php" class="logo me-auto"><img src="assets/img/logo/2.png" style="height:150px;" alt=""></a>
+                         </div>
+                         <div class="footer-info d-block d-xl-none">
+                             <a href="index.php" class="logo me-auto"><img src="assets/img/logo/2.png" class="img-fluid" alt=""></a>
+                         </div>
 
-                            2nd Floor,
-                            <br> Aadhya Scan Center,<br>
-                            Chinta Vari Street,<br>
-                            Bhanugudi Junction,<br>
+                         <div class="social-links my-3">
+                             <div class="d-flex justify-content-around">
+                                 <a href="https://www.facebook.com/Artho360clinic" target="_blank" class="facebook me-3"><i class="bx bxl-facebook"></i></a>
+                                 <a href="https://www.instagram.com/artho360clinic/" target="_blank" class="instagram me-3"><i class="bx bxl-instagram"></i></a>
+                                 <a href="https://www.youtube.com/@artho360clinic" target="_blank" class="youtube"><i class="bx bxl-youtube"></i></a>
+                             </div>
+                         </div>
+
+                     </div>
+
+                     <div class="col-xl-4 col-lg-4 col-md-6 col-12 footer-links">
+                         <h4>Our Services</h4>
+
+                         <ul>
+                             <li>
+                                 <i class="bx bx-chevron-right"></i>
+                                 <a href=" #facilities">Fractures
+                                     Pelviacetabular trauma
+                                     Non Unions
+                                     Deformity corrections</a>
+                             </li>
+                             <li>
+                                 <i class="bx bx-chevron-right"></i>
+                                 <a href=" #facilities">Primary and Revision Joint replacement Knee replacement pic
+                                     Hip replacement pic
+                                     Shoulder replacement pic </a>
+                             </li>
+                             <li>
+                                 <i class="bx bx-chevron-right"></i>
+                                 <a href=" #facilities">Arthroscopy and Sports Medicine
+                                     ACL reconstruction
+                                     PCL reconstruction
+                                     MCL and LCL reconstruction
+                                     Meniscus Surgery
+                                     Rotator cuff repair
+                                     Bankart's repair
+                                     SLAP repair</a>
+                             </li>
+                             <li>
+                                 <i class="bx bx-chevron-right"></i>
+                                 <a href=" #facilities">Ortho biologics
+                                     Prp treatments
+                                     BMAC procedures</a>
+                             </li>
+
+
+                         </ul>
+                     </div>
 
 
 
-                            Kakinada-03
-                            <br>
-                            <!-- NEAR NARAYANA JR. COLLEGE<br> -->
-
-                        </p>
-                        <div class="social-links mt-3">
-                            <a href="https://www.facebook.com/Artho360clinic" target="_blank" class="facebook"><i
-                                    class="bx bxl-facebook"></i></a>
-                            <a href="https://www.instagram.com/artho360clinic/" target="_blank" class="instagram"><i
-                                    class="bx bxl-instagram"></i></a>
-                            <a href="https://www.youtube.com/@artho360clinic" target="_blank" class="youtube"><i
-                                    class="bx bxl-youtube"></i></a>
+                 </div>
+             </div>
+         </div>
 
 
-                        </div>
 
-                    </div>
 
-                </div>
-            </div>
-        </div>
 
-        <div class="footer-area-bottom theme-bg">
-            <div class="container">
-                <div class="row  pt-4">
-                    <div class="col-xl-8 col-lg-9 col-md-12 col-12">
-                        <div class="footer-widget__copyright">
-                            <p class="mini_text" style="color:#ffffff"> ©2024 Dr.Mani's Arthro Clinic. All Rights
-                                Reserved.
-                                Designed &
-                                Developed by <a href="https://bhavicreations.com/" target="_blank"
-                                    style="text-decoration: none;color:#ffffff">Bhavi
-                                    Creations</a></p>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-3 col-md-12 col-12">
-                        <div class="footer-widget__copyright-info info-direction ">
-                            <p class="mini_text"><a href="terms.html" style="text-decoration: none;color:#ffffff">Terms
-                                    & conditions
-                                </a>
-                                <a href="privacy.html" style="text-decoration: none;color:#ffffff"> Privacy &
-                                    policy</a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+
+
+
+
+
+
+         <div class="footer-area-bottom theme-bg">
+             <div class="container">
+                 <div class="row  pt-4">
+                     <div class="col-xl-8 col-lg-9 col-md-12 col-12">
+                         <div class="footer-widget__copyright">
+                             <p class="mini_text" style="color:#ffffff"> ©2024 Dr.P.Manikumar. All Rights
+                                 Reserved.
+                                 Designed &
+                                 Developed by <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none;color:#ffffff">Bhavi
+                                     Creations</a></p>
+                         </div>
+                     </div>
+                     <div class="col-xl-4 col-lg-3 col-md-12 col-12">
+                         <div class="footer-widget__copyright-info info-direction ">
+                             <p class="mini_text"><a href="terms.html" style="text-decoration: none;color:#ffffff">Terms
+                                     & conditions
+                                 </a>
+                                 <a href="privacy.html" style="text-decoration: none;color:#ffffff"> Privacy &
+                                     policy</a>
+                             </p>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+         </div>
+     </footer>
     <!-- End Footer -->
 
     <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
