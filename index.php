@@ -35,6 +35,11 @@
          .fnt_wight {
              font-weight: 600;
          }
+
+         .side_space{
+  margin-left: -35px !important;
+ }
+ 
      </style>
  </head>
 
@@ -257,15 +262,20 @@
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/artho/Non Unions.webp" class="img-fluid gImg1">
+                                         <img src="assets/img/artho/reunion.png" class="img-fluid gImg1">
                                      </div>
                                      <p class="image_tetx_inside">Non Unions </p>
                                  </div>
-
+                                 <div class="swiper-slide">
+                                     <div class="testimonial-item">
+                                         <img src="assets/img/artho/fractures.png" class="img-fluid gImg1">
+                                     </div>
+                                     <p class="image_tetx_inside"> Fractures </p>
+                                 </div>
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/artho/Deformity corrections.webp" class="img-fluid gImg1">
+                                         <img src="assets/img/artho/deformity correction.png" class="img-fluid gImg1">
                                      </div>
                                      <p class="image_tetx_inside">Deformity corrections</p>
                                  </div>
@@ -1725,8 +1735,8 @@
                          <div class="footer-info d-none d-xl-block">
                              <a href="index.php" class="logo me-auto"><img src="assets/img/logo/2.png" style="height:150px;" alt=""></a>
                          </div>
-                         <div class="footer-info d-block d-xl-none">
-                             <a href="index.php" class="logo me-auto"><img src="assets/img/logo/2.png" class="img-fluid" alt=""></a>
+                         <div class="footer-info   d-block d-xl-none">
+                             <a href="index.php" class="logo  me-auto"><img src="assets/img/logo/2.png" class="img-fluid    side_space "   alt=""></a>
                          </div>
 
                          <div class="social-links my-3">
