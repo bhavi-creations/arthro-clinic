@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Spine 360</title>
+    <title>Arthro 360</title>
     <link href="img\Oncology logo.png" rel="icon">
 
     <!-- Custom fonts for this template-->

@@ -38,24 +38,24 @@ $result = $conn->query($sql);
 
 
     <style>
-    @media (max-width: 767px) {
-        .scrollable-div {
-            order: 1;
-            margin-bottom: 150px;
-            padding: 50px;
+        @media (max-width: 767px) {
+            .scrollable-div {
+                order: 1;
+                margin-bottom: 150px;
+                padding: 50px;
+            }
+
+            .readmore_btn {
+                width: 150px;
+                margin-left: 15px;
+            }
         }
 
         .readmore_btn {
-            width: 150px;
-            margin-left: 15px;
+            width: 120px;
+
+
         }
-    }
-
-    .readmore_btn {
-        width: 120px;
-
-
-    }
     </style>
 
 
@@ -68,27 +68,27 @@ $result = $conn->query($sql);
 
     <!-- ======= Header ======= -->
     <header id="header" class="fixed-top ">
-      <div class="container d-flex align-items-center ">
-          <a href="index.php" class="logo me-auto">
-              <img src="assets/img/logo/2.png" alt="" class="img-fluid image_size">
+        <div class="container d-flex align-items-center ">
+            <a href="index.php" class="logo me-auto">
+                <img src="assets/img/logo/2.png" alt="" class="img-fluid image_size">
 
 
-          </a>
-          <nav id="navbar" class="navbar order-lg-0 ">
-              <ul>
-                  <li><a class="nav-link scrollto " href="index.php">Home</a></li>
-                  <li><a class="nav-link scrollto  " href="index.php#About">About</a></li>
-                  <li><a class="nav-link scrollto  " href="index.php#Services">Services</a></li>
-                  <li><a class="nav-link scrollto  " href="index.php#Testimonial">Testimonial</a></li>
-                  <li><a class="nav-link scrollto  " href="blogs.php">Blogs</a></li>
-                  <li><a class="nav-link scrollto " href="index.php#Contact">Contact</a></li>
-              </ul>
-              <i class="bi bi-list mobile-nav-toggle"></i>
-          </nav><!-- .navbar -->
-          <a href="index.php#Appointment" class="appointment-btn scrollto"><span class="d-none d-md-inline">Make an</span>
-              Appointment</a>
-      </div>
-  </header>
+            </a>
+            <nav id="navbar" class="navbar order-lg-0 ">
+                <ul>
+                    <li><a class="nav-link scrollto " href="index.php">Home</a></li>
+                    <li><a class="nav-link scrollto  " href="index.php#About">About</a></li>
+                    <li><a class="nav-link scrollto  " href="index.php#Services">Services</a></li>
+                    <li><a class="nav-link scrollto  " href="index.php#Testimonial">Testimonial</a></li>
+                    <li><a class="nav-link scrollto  " href="blogs.php">Blogs</a></li>
+                    <li><a class="nav-link scrollto " href="index.php#Contact">Contact</a></li>
+                </ul>
+                <i class="bi bi-list mobile-nav-toggle"></i>
+            </nav><!-- .navbar -->
+            <a href="index.php#Appointment" class="appointment-btn scrollto"><span class="d-none d-md-inline">Make an</span>
+                Appointment</a>
+        </div>
+    </header>
     <!-- End Header -->
 
     <main>
@@ -119,7 +119,7 @@ $result = $conn->query($sql);
 
 
 
-                    <?php echo date("Y-m-d H:i:s", strtotime($row['time']));
+                                <?php echo date("Y-m-d H:i:s", strtotime($row['time']));
                                 echo '</p>
                                     
                                     <div class="row d-flex my-3">';
@@ -128,25 +128,25 @@ $result = $conn->query($sql);
 
                                 echo '<div>';
                                 ?>
-                    <?php if (!empty($row['photos'])) : ?>
-                    <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
-                        <div class="swiper-wrapper row">
-                            <!-- Added 'row' class for Bootstrap grid -->
+                                <?php if (!empty($row['photos'])) : ?>
+                                    <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+                                        <div class="swiper-wrapper row">
+                                            <!-- Added 'row' class for Bootstrap grid -->
 
-                            <?php foreach (json_decode($row['photos']) as $photo) : ?>
-                            <div class="testimonial-item col-6 col-md-4 col-lg-3">
-                                <!-- Added Bootstrap grid classes -->
-                                <img src="admin/public/uploads/photos/<?php echo htmlspecialchars($photo); ?>"
-                                    alt="Blog Photo" class="img-fluid my-2">
-                            </div>
-                            <?php endforeach; ?>
+                                            <?php foreach (json_decode($row['photos']) as $photo) : ?>
+                                                <div class="testimonial-item col-6 col-md-4 col-lg-3">
+                                                    <!-- Added Bootstrap grid classes -->
+                                                    <img src="admin/public/uploads/photos/<?php echo htmlspecialchars($photo); ?>"
+                                                        alt="Blog Photo" class="img-fluid my-2">
+                                                </div>
+                                            <?php endforeach; ?>
 
-                        </div>
-                    </div>
-                    <?php else : ?>
-                    <p>No photos available.</p>
-                    <?php endif; ?>
-                    <?php echo '</div>';
+                                        </div>
+                                    </div>
+                                <?php else : ?>
+                                    <p>No photos available.</p>
+                                <?php endif; ?>
+                                <?php echo '</div>';
 
                                 echo '
                                         </div>';
@@ -184,7 +184,7 @@ $result = $conn->query($sql);
                                         </video>
                                         <p>Published On ';
                                 ?>
-                    <?php echo date("Y-m-d H:i:s", strtotime($row['time']));
+                                <?php echo date("Y-m-d H:i:s", strtotime($row['time']));
 
                                 echo '</p>
                                          <div class="row d-flex my-3">
@@ -197,24 +197,24 @@ $result = $conn->query($sql);
 
 
                                 echo '<div id="images" style="display:none;">'; ?>
-                    <?php if (!empty($row['photos'])) : ?>
-                    <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
-                        <div class="swiper-wrapper row">
-                            <!-- Added 'row' class for Bootstrap grid -->
+                                <?php if (!empty($row['photos'])) : ?>
+                                    <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+                                        <div class="swiper-wrapper row">
+                                            <!-- Added 'row' class for Bootstrap grid -->
 
-                            <?php foreach (json_decode($row['photos']) as $photo) : ?>
-                            <div class="testimonial-item col-6 col-md-4 col-lg-3">
-                                <!-- Added Bootstrap grid classes -->
-                                <img src="admin/public/uploads/photos/<?php echo htmlspecialchars($photo); ?>"
-                                    alt="Blog Photo" class="img-fluid my-2">
-                            </div>
-                            <?php endforeach; ?>
+                                            <?php foreach (json_decode($row['photos']) as $photo) : ?>
+                                                <div class="testimonial-item col-6 col-md-4 col-lg-3">
+                                                    <!-- Added Bootstrap grid classes -->
+                                                    <img src="admin/public/uploads/photos/<?php echo htmlspecialchars($photo); ?>"
+                                                        alt="Blog Photo" class="img-fluid my-2">
+                                                </div>
+                                            <?php endforeach; ?>
 
-                        </div>
-                    </div>
-                    <?php else : ?>
-                    <p>No photos available.</p>
-                    <?php endif;
+                                        </div>
+                                    </div>
+                                <?php else : ?>
+                                    <p>No photos available.</p>
+                                <?php endif;
                                 echo $row['content'];
                                 ?>
                     <?php echo '</div>';
@@ -239,71 +239,71 @@ $result = $conn->query($sql);
 
 
         <script>
-        state = 1;
+            state = 1;
 
-        function hideDiv() {
+            function hideDiv() {
 
-            if (state == 0) {
-                var div = document.getElementById('images');
-                document.getElementById('read').innerHTML = "Read More";
-                div.style.display = 'none';
-                state = 1;
-            } else {
-                var div = document.getElementById('images');
-                div.style.display = 'block';
-                document.getElementById('read').innerHTML = "Read less";
-                state = 0;
+                if (state == 0) {
+                    var div = document.getElementById('images');
+                    document.getElementById('read').innerHTML = "Read More";
+                    div.style.display = 'none';
+                    state = 1;
+                } else {
+                    var div = document.getElementById('images');
+                    div.style.display = 'block';
+                    document.getElementById('read').innerHTML = "Read less";
+                    state = 0;
+                }
+
             }
 
-        }
 
+            function swapDivs(currentDivId) {
+                var currentDiv = document.getElementById('sidebardiv' + currentDivId);
+                currentDiv.setAttribute('id', 'sidebardiv' + document.getElementById('selectedBlogId').innerText);
+                console.log(document.getElementById('selectedBlogId').innerText);
+                let selectedBlog = document.getElementById('selectedblog');
+                let currentDivLastChild = currentDiv.querySelector('#lastchild');
+                let selectedDivLastChild = selectedBlog.querySelector('#lastchild');
+                var currentDivNewDiv = document.createElement('div');
+                currentDivNewDiv.innerHTML = selectedBlog.querySelector('#lastchild').innerHTML;
+                let currentDivNewDivLastChild = document.createElement('div');
+                currentDivNewDivLastChild.id = 'lastchild';
+                currentDivNewDivLastChild.style.display = 'none';
+                selectedBlog.removeChild(selectedDivLastChild);
+                selectedBlog.removeChild(document.getElementById('selectedBlogId'));
+                currentDivNewDivLastChild.innerHTML = selectedBlog.innerHTML;
+                currentDivNewDiv.appendChild(currentDivNewDivLastChild);
+                let selectedBlogNewDiv = document.createElement('div');
+                selectedBlogNewDiv.innerHTML = currentDiv.querySelector('#lastchild').innerHTML;
+                let selectedBlogIDNewDiv = document.createElement('div');
+                selectedBlogIDNewDiv.id = 'selectedBlogId';
+                selectedBlogIDNewDiv.innerText = currentDivId;
+                let selectedBlogNewDivLastChild = document.createElement('div');
+                selectedBlogNewDivLastChild.id = 'lastchild';
+                selectedBlogNewDivLastChild.style.display = 'none';
+                currentDiv.removeChild(currentDivLastChild);
+                selectedBlogNewDivLastChild.innerHTML = currentDiv.innerHTML;
+                selectedBlogNewDiv.appendChild(selectedBlogIDNewDiv);
+                selectedBlogNewDiv.appendChild(selectedBlogNewDivLastChild);
+                currentDiv.innerHTML = currentDivNewDiv.innerHTML;
+                selectedBlog.innerHTML = selectedBlogNewDiv.innerHTML;
 
-        function swapDivs(currentDivId) {
-            var currentDiv = document.getElementById('sidebardiv' + currentDivId);
-            currentDiv.setAttribute('id', 'sidebardiv' + document.getElementById('selectedBlogId').innerText);
-            console.log(document.getElementById('selectedBlogId').innerText);
-            let selectedBlog = document.getElementById('selectedblog');
-            let currentDivLastChild = currentDiv.querySelector('#lastchild');
-            let selectedDivLastChild = selectedBlog.querySelector('#lastchild');
-            var currentDivNewDiv = document.createElement('div');
-            currentDivNewDiv.innerHTML = selectedBlog.querySelector('#lastchild').innerHTML;
-            let currentDivNewDivLastChild = document.createElement('div');
-            currentDivNewDivLastChild.id = 'lastchild';
-            currentDivNewDivLastChild.style.display = 'none';
-            selectedBlog.removeChild(selectedDivLastChild);
-            selectedBlog.removeChild(document.getElementById('selectedBlogId'));
-            currentDivNewDivLastChild.innerHTML = selectedBlog.innerHTML;
-            currentDivNewDiv.appendChild(currentDivNewDivLastChild);
-            let selectedBlogNewDiv = document.createElement('div');
-            selectedBlogNewDiv.innerHTML = currentDiv.querySelector('#lastchild').innerHTML;
-            let selectedBlogIDNewDiv = document.createElement('div');
-            selectedBlogIDNewDiv.id = 'selectedBlogId';
-            selectedBlogIDNewDiv.innerText = currentDivId;
-            let selectedBlogNewDivLastChild = document.createElement('div');
-            selectedBlogNewDivLastChild.id = 'lastchild';
-            selectedBlogNewDivLastChild.style.display = 'none';
-            currentDiv.removeChild(currentDivLastChild);
-            selectedBlogNewDivLastChild.innerHTML = currentDiv.innerHTML;
-            selectedBlogNewDiv.appendChild(selectedBlogIDNewDiv);
-            selectedBlogNewDiv.appendChild(selectedBlogNewDivLastChild);
-            currentDiv.innerHTML = currentDivNewDiv.innerHTML;
-            selectedBlog.innerHTML = selectedBlogNewDiv.innerHTML;
+                // Manage volume
+                let currentDivVideo = currentDiv.querySelector('video');
+                let selectedBlogVideo = selectedBlog.querySelector('video');
+                if (currentDivVideo) currentDivVideo.muted = true; // Mute the sidebar video
+                if (selectedBlogVideo) selectedBlogVideo.muted = false; // Unmute the main video
 
-            // Manage volume
-            let currentDivVideo = currentDiv.querySelector('video');
-            let selectedBlogVideo = selectedBlog.querySelector('video');
-            if (currentDivVideo) currentDivVideo.muted = true; // Mute the sidebar video
-            if (selectedBlogVideo) selectedBlogVideo.muted = false; // Unmute the main video
-
-            // Scroll to main video section
-            selectedBlog.scrollIntoView({
-                behavior: 'smooth'
-            });
+                // Scroll to main video section
+                selectedBlog.scrollIntoView({
+                    behavior: 'smooth'
+                });
 
 
 
 
-        }
+            }
         </script>
 
           
@@ -311,107 +311,99 @@ $result = $conn->query($sql);
 
     <!-- ======= Footer ======= -->
     <footer id="footer">
-         <div class="footer-top mt-5">
-             <div class=" container">
-                 <div class="row">
+      <div class="footer-top mt-5">
+          <div class=" container">
+              <div class="row">
 
 
-                     <div class="col-xl-4 col-lg-4 col-md-6 col-12 footer-links">
-                         <h4>Dr.P.Manikumar</h4>
-                         <ul>
+                  <div class="col-xl-4 col-lg-4 col-md-6 col-12 footer-links">
+                      <h4>Dr.P.Manikumar</h4>
+                      <ul>
 
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href="#facilities">MBBS</a>
-                             </li>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href="#facilities"> MS Ortho(RMC)</a>
-                             </li>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Followship in ROBOTIC </a>
-                             </li>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities"> Joint Replacement (FIRJR)</a>
-                             </li>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Followship in Arthroscopy and Sports Medicine (FIAS)</a>
-                             </li>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Fellowship in Shoulder Surgery(FISS)</a>
-                             </li>
+                          <li>
+                              <i class="bx bx-chevron-right"></i>
+                              <a href="#facilities">MBBS,  MS Ortho(RMC)</a>
+                          </li>
+                      
+                          <li>
+                              <i class="bx bx-chevron-right"></i>
+                              <a href=" #facilities">Followship in ROBOTIC  Joint Replacement (FIRJR) </a>
+                          </li>
+                      
+                          <li>
+                              <i class="bx bx-chevron-right"></i>
+                              <a href=" #facilities">Followship in Arthroscopy and Sports Medicine (FIAS)</a>
+                          </li>
+                          <li>
+                              <i class="bx bx-chevron-right"></i>
+                              <a href=" #facilities">Fellowship in Shoulder Surgery(FISS)</a>
+                          </li>
 
 
-                         </ul>
-                     </div>
+                      </ul>
+                  </div>
 
 
-                     <div class="col-xl-4 col-lg-4 col-md-6 d-flex flex-column justify-content-center">
-                         <div class="footer-info d-none d-xl-block">
-                             <a href="index.php" class="logo me-auto"><img src="assets/img/logo/2.png" style="height:150px;" alt=""></a>
-                         </div>
-                         <div class="footer-info d-block d-xl-none">
-                             <a href="index.php" class="logo me-auto"><img src="assets/img/logo/2.png" class="img-fluid" alt=""></a>
-                         </div>
+                  <div class="col-xl-4 col-lg-4 col-md-6 d-flex flex-column justify-content-center">
+                      <div class="footer-info d-none d-xl-block">
+                          <a href="index.php" class="logo me-auto"><img src="assets/img/logo/2.png" style="height:150px;" alt=""></a>
+                      </div>
+                      <div class="footer-info   d-block d-xl-none">
+                          <a href="index.php" class="logo  me-auto"><img src="assets/img/logo/2.png" class="img-fluid    side_space "   alt=""></a>
+                      </div>
 
-                         <div class="social-links my-3">
-                             <div class="d-flex justify-content-around">
-                                 <a href="https://www.facebook.com/Artho360clinic" target="_blank" class="facebook me-3"><i class="bx bxl-facebook"></i></a>
-                                 <a href="https://www.instagram.com/artho360clinic/" target="_blank" class="instagram me-3"><i class="bx bxl-instagram"></i></a>
-                                 <a href="https://www.youtube.com/@artho360clinic" target="_blank" class="youtube"><i class="bx bxl-youtube"></i></a>
-                             </div>
-                         </div>
+                      <div class="social-links my-3">
+                          <div class="d-flex justify-content-around">
+                              <a href="https://www.facebook.com/Artho360clinic" target="_blank" class="facebook me-3"><i class="bx bxl-facebook"></i></a>
+                              <a href="https://www.instagram.com/artho360clinic/" target="_blank" class="instagram me-3"><i class="bx bxl-instagram"></i></a>
+                              <a href="https://www.youtube.com/@artho360clinic" target="_blank" class="youtube"><i class="bx bxl-youtube"></i></a>
+                          </div>
+                      </div>
 
-                     </div>
+                  </div>
 
-                     <div class="col-xl-4 col-lg-4 col-md-6 col-12 footer-links">
-                         <h4>Our Services</h4>
+                  <div class="col-xl-4 col-lg-4 col-md-6 col-12 footer-links">
+                      <h4>Our Services</h4>
 
-                         <ul>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Fractures
-                                     Pelviacetabular trauma
-                                     Non Unions
-                                     Deformity corrections</a>
-                             </li>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Primary and Revision Joint replacement Knee replacement pic
-                                     Hip replacement pic
-                                     Shoulder replacement pic </a>
-                             </li>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Arthroscopy and Sports Medicine
-                                     ACL reconstruction
-                                     PCL reconstruction
-                                     MCL and LCL reconstruction
-                                     Meniscus Surgery
-                                     Rotator cuff repair
-                                     Bankart's repair
-                                     SLAP repair</a>
-                             </li>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Ortho biologics
-                                     Prp treatments
-                                     BMAC procedures</a>
-                             </li>
+                      <ul>
+                          <li>
+                              <i class="bx bx-chevron-right"></i>
+                              <a href=" #facilities">Fractures,
+                                  Pelviacetabular trauma,
+                                  Non Unions,
+                                  Deformity corrections</a>
+                          </li>
+                          <li>
+                              <i class="bx bx-chevron-right"></i>
+                              <a href=" #facilities">Primary and Revision Joint replacement   </a>
+                          </li>
+                          <li>
+                              <i class="bx bx-chevron-right"></i>
+                              <a href=" #facilities">Arthroscopy and Sports Medicine :
+                                  ACL reconstruction,
+                                  PCL reconstruction,
+                                  MCL and LCL reconstruction,
+                                  Meniscus Surgery,
+                                  Rotator cuff repair,
+                                  Bankart's repair,
+                                  SLAP repair</a>
+                          </li>
+                          <li>
+                              <i class="bx bx-chevron-right"></i>
+                              <a href=" #facilities">Ortho biologics :
+                                  Prp treatments,
+                                  BMAC procedures</a>
+                          </li>
 
 
-                         </ul>
-                     </div>
+                      </ul>
+                  </div>
 
 
 
-                 </div>
-             </div>
-         </div>
+              </div>
+          </div>
+      </div>
 
 
 
@@ -423,32 +415,59 @@ $result = $conn->query($sql);
 
 
 
-         <div class="footer-area-bottom theme-bg">
-             <div class="container">
-                 <div class="row  pt-4">
-                     <div class="col-xl-8 col-lg-9 col-md-12 col-12">
-                         <div class="footer-widget__copyright">
-                             <p class="mini_text" style="color:#ffffff"> ©2024 Dr.P.Manikumar. All Rights
-                                 Reserved.
-                                 Designed &
-                                 Developed by <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none;color:#ffffff">Bhavi
-                                     Creations</a></p>
-                         </div>
-                     </div>
-                     <div class="col-xl-4 col-lg-3 col-md-12 col-12">
-                         <div class="footer-widget__copyright-info info-direction ">
-                             <p class="mini_text"><a href="terms.html" style="text-decoration: none;color:#ffffff">Terms
-                                     & conditions
-                                 </a>
-                                 <a href="privacy.html" style="text-decoration: none;color:#ffffff"> Privacy &
-                                     policy</a>
-                             </p>
-                         </div>
-                     </div>
-                 </div>
-             </div>
-         </div>
-     </footer>
+      <div
+        class="footer-area-bottom theme-bg pb-3"
+        style="background-color: rgb(1 83 157)   "
+      >
+        <div class="container">
+          <div class="row pt-4">
+            <div class="col-md-6 col-12">
+              <div class="footer-widget__copyright-info info-direction">
+                <p class="last_text">
+                  <a
+                    href="terms.html"
+                    style="text-decoration: none; color: #ffffff"
+                    >Terms & conditions :
+                  </a>
+                  <a
+                    href="privacy.html"
+                    style="text-decoration: none; color: #ffffff"
+                  >
+                    Privacy & policy</a
+                  >
+                </p>
+              </div>
+            </div>
+
+            <div class="col-md-6 col-12 second_divv_end_brand">
+              <div
+                class="footer-widget__copyright-info info-direction d-flex flex-row justify-content-end align-items-center"
+              >
+                <a
+                  href="https://bhavicreations.com/"
+                  target="_blank"
+                  style="
+                    text-decoration: none;
+                    color: #ffffff;
+                    display: flex;
+                    align-items: center;
+                  "
+                >
+                  <p class="mini_text last_text mb-0" style="color: white">
+                    Branding By @
+                  </p>
+                  <img
+                    src="assets/img/bhavi_logo/Bhavi_Branding_Stamp.png"
+                    class="img-fluid brand_image"
+                    alt=""
+                  />
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  </footer>
     <!-- End Footer -->
 
     <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i

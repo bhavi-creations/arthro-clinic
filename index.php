@@ -165,7 +165,7 @@
                              </li>
                              <li class="para_font"><i class="bi bi-check-circle"></i>&nbsp;Smith and Nephew Fellowship
                                  in
-                                 Robotic Joint Replacement (FIRJR) from Apollo Hospitals..
+                                 Robotic Joint Replacement (FIRJR) from Apollo Hospitals. 
 
                              </li>
                          </ul>
@@ -262,7 +262,7 @@
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/artho/reunion.png" class="img-fluid gImg1">
+                                         <img src="assets/img/artho/dd.png" class="img-fluid gImg1">
                                      </div>
                                      <p class="image_tetx_inside">Non Unions </p>
                                  </div>
@@ -302,7 +302,7 @@
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/artho/Knee replacement pic.webp" class="img-fluid gImg1">
+                                         <img src="assets/img/artho/Knee replacement pic.png" class="img-fluid gImg1">
                                      </div>
                                      <p class="image_tetx_inside">Knee replacement pic</p>
                                  </div>
@@ -310,7 +310,7 @@
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/artho/Hip replacement pic.webp" class="img-fluid gImg1">
+                                         <img src="assets/img/artho/Hip replacement pic.png" class="img-fluid gImg1">
                                      </div>
                                      <p class="image_tetx_inside">Hip replacement pic</p>
                                  </div>
@@ -318,7 +318,7 @@
 
                                  <div class="swiper-slide">
                                      <div class="testimonial-item">
-                                         <img src="assets/img/artho/Shoulder replacement pic.webp" class="img-fluid gImg1">
+                                         <img src="assets/img/artho/Shoulder replacement pic.png" class="img-fluid gImg1">
                                      </div>
                                      <p class="image_tetx_inside">Shoulder replacement pic</p>
                                  </div>
@@ -1692,107 +1692,99 @@
 
      <!-- ======= Footer ======= -->
      <footer id="footer">
-         <div class="footer-top mt-5">
-             <div class=" container">
-                 <div class="row">
+      <div class="footer-top mt-5">
+          <div class=" container">
+              <div class="row">
 
 
-                     <div class="col-xl-4 col-lg-4 col-md-6 col-12 footer-links">
-                         <h4>Dr.P.Manikumar</h4>
-                         <ul>
+                  <div class="col-xl-4 col-lg-4 col-md-6 col-12 footer-links">
+                      <h4>Dr.P.Manikumar</h4>
+                      <ul>
 
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href="#facilities">MBBS</a>
-                             </li>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href="#facilities"> MS Ortho(RMC)</a>
-                             </li>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Followship in ROBOTIC </a>
-                             </li>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities"> Joint Replacement (FIRJR)</a>
-                             </li>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Followship in Arthroscopy and Sports Medicine (FIAS)</a>
-                             </li>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Fellowship in Shoulder Surgery(FISS)</a>
-                             </li>
+                          <li>
+                              <i class="bx bx-chevron-right"></i>
+                              <a href="#facilities">MBBS,  MS Ortho(RMC)</a>
+                          </li>
+                      
+                          <li>
+                              <i class="bx bx-chevron-right"></i>
+                              <a href=" #facilities">Followship in ROBOTIC  Joint Replacement (FIRJR) </a>
+                          </li>
+                      
+                          <li>
+                              <i class="bx bx-chevron-right"></i>
+                              <a href=" #facilities">Followship in Arthroscopy and Sports Medicine (FIAS)</a>
+                          </li>
+                          <li>
+                              <i class="bx bx-chevron-right"></i>
+                              <a href=" #facilities">Fellowship in Shoulder Surgery(FISS)</a>
+                          </li>
 
 
-                         </ul>
-                     </div>
+                      </ul>
+                  </div>
 
 
-                     <div class="col-xl-4 col-lg-4 col-md-6 d-flex flex-column justify-content-center">
-                         <div class="footer-info d-none d-xl-block">
-                             <a href="index.php" class="logo me-auto"><img src="assets/img/logo/2.png" style="height:150px;" alt=""></a>
-                         </div>
-                         <div class="footer-info   d-block d-xl-none">
-                             <a href="index.php" class="logo  me-auto"><img src="assets/img/logo/2.png" class="img-fluid    side_space "   alt=""></a>
-                         </div>
+                  <div class="col-xl-4 col-lg-4 col-md-6 d-flex flex-column justify-content-center">
+                      <div class="footer-info d-none d-xl-block">
+                          <a href="index.php" class="logo me-auto"><img src="assets/img/logo/2.png" style="height:150px;" alt=""></a>
+                      </div>
+                      <div class="footer-info   d-block d-xl-none">
+                          <a href="index.php" class="logo  me-auto"><img src="assets/img/logo/2.png" class="img-fluid    side_space "   alt=""></a>
+                      </div>
 
-                         <div class="social-links my-3">
-                             <div class="d-flex justify-content-around">
-                                 <a href="https://www.facebook.com/Artho360clinic" target="_blank" class="facebook me-3"><i class="bx bxl-facebook"></i></a>
-                                 <a href="https://www.instagram.com/artho360clinic/" target="_blank" class="instagram me-3"><i class="bx bxl-instagram"></i></a>
-                                 <a href="https://www.youtube.com/@artho360clinic" target="_blank" class="youtube"><i class="bx bxl-youtube"></i></a>
-                             </div>
-                         </div>
+                      <div class="social-links my-3">
+                          <div class="d-flex justify-content-around">
+                              <a href="https://www.facebook.com/Artho360clinic" target="_blank" class="facebook me-3"><i class="bx bxl-facebook"></i></a>
+                              <a href="https://www.instagram.com/artho360clinic/" target="_blank" class="instagram me-3"><i class="bx bxl-instagram"></i></a>
+                              <a href="https://www.youtube.com/@artho360clinic" target="_blank" class="youtube"><i class="bx bxl-youtube"></i></a>
+                          </div>
+                      </div>
 
-                     </div>
+                  </div>
 
-                     <div class="col-xl-4 col-lg-4 col-md-6 col-12 footer-links">
-                         <h4>Our Services</h4>
+                  <div class="col-xl-4 col-lg-4 col-md-6 col-12 footer-links">
+                      <h4>Our Services</h4>
 
-                         <ul>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Fractures
-                                     Pelviacetabular trauma
-                                     Non Unions
-                                     Deformity corrections</a>
-                             </li>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Primary and Revision Joint replacement Knee replacement pic
-                                     Hip replacement pic
-                                     Shoulder replacement pic </a>
-                             </li>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Arthroscopy and Sports Medicine
-                                     ACL reconstruction
-                                     PCL reconstruction
-                                     MCL and LCL reconstruction
-                                     Meniscus Surgery
-                                     Rotator cuff repair
-                                     Bankart's repair
-                                     SLAP repair</a>
-                             </li>
-                             <li>
-                                 <i class="bx bx-chevron-right"></i>
-                                 <a href=" #facilities">Ortho biologics
-                                     Prp treatments
-                                     BMAC procedures</a>
-                             </li>
+                      <ul>
+                          <li>
+                              <i class="bx bx-chevron-right"></i>
+                              <a href=" #facilities">Fractures,
+                                  Pelviacetabular trauma,
+                                  Non Unions,
+                                  Deformity corrections</a>
+                          </li>
+                          <li>
+                              <i class="bx bx-chevron-right"></i>
+                              <a href=" #facilities">Primary and Revision Joint replacement   </a>
+                          </li>
+                          <li>
+                              <i class="bx bx-chevron-right"></i>
+                              <a href=" #facilities">Arthroscopy and Sports Medicine :
+                                  ACL reconstruction,
+                                  PCL reconstruction,
+                                  MCL and LCL reconstruction,
+                                  Meniscus Surgery,
+                                  Rotator cuff repair,
+                                  Bankart's repair,
+                                  SLAP repair</a>
+                          </li>
+                          <li>
+                              <i class="bx bx-chevron-right"></i>
+                              <a href=" #facilities">Ortho biologics :
+                                  Prp treatments,
+                                  BMAC procedures</a>
+                          </li>
 
 
-                         </ul>
-                     </div>
+                      </ul>
+                  </div>
 
 
 
-                 </div>
-             </div>
-         </div>
+              </div>
+          </div>
+      </div>
 
 
 
@@ -1804,32 +1796,59 @@
 
 
 
-         <div class="footer-area-bottom theme-bg">
-             <div class="container">
-                 <div class="row  pt-4">
-                     <div class="col-xl-8 col-lg-9 col-md-12 col-12">
-                         <div class="footer-widget__copyright">
-                             <p class="mini_text" style="color:#ffffff"> ©2024 Dr.P.Manikumar. All Rights
-                                 Reserved.
-                                 Designed &
-                                 Developed by <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none;color:#ffffff">Bhavi
-                                     Creations</a></p>
-                         </div>
-                     </div>
-                     <div class="col-xl-4 col-lg-3 col-md-12 col-12">
-                         <div class="footer-widget__copyright-info info-direction ">
-                             <p class="mini_text"><a href="terms.html" style="text-decoration: none;color:#ffffff">Terms
-                                     & conditions
-                                 </a>
-                                 <a href="privacy.html" style="text-decoration: none;color:#ffffff"> Privacy &
-                                     policy</a>
-                             </p>
-                         </div>
-                     </div>
-                 </div>
-             </div>
-         </div>
-     </footer>
+      <div
+        class="footer-area-bottom theme-bg pb-3"
+        style="background-color: rgb(1 83 157)   "
+      >
+        <div class="container">
+          <div class="row pt-4">
+            <div class="col-md-6 col-12">
+              <div class="footer-widget__copyright-info info-direction">
+                <p class="last_text">
+                  <a
+                    href="terms.html"
+                    style="text-decoration: none; color: #ffffff"
+                    >Terms & conditions :
+                  </a>
+                  <a
+                    href="privacy.html"
+                    style="text-decoration: none; color: #ffffff"
+                  >
+                    Privacy & policy</a
+                  >
+                </p>
+              </div>
+            </div>
+
+            <div class="col-md-6 col-12 second_divv_end_brand">
+              <div
+                class="footer-widget__copyright-info info-direction d-flex flex-row justify-content-end align-items-center"
+              >
+                <a
+                  href="https://bhavicreations.com/"
+                  target="_blank"
+                  style="
+                    text-decoration: none;
+                    color: #ffffff;
+                    display: flex;
+                    align-items: center;
+                  "
+                >
+                  <p class="mini_text last_text mb-0" style="color: white">
+                    Branding By @
+                  </p>
+                  <img
+                    src="assets/img/bhavi_logo/Bhavi_Branding_Stamp.png"
+                    class="img-fluid brand_image"
+                    alt=""
+                  />
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  </footer>
 
      <!-- End Footer -->
 
