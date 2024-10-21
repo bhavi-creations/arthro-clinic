@@ -304,7 +304,7 @@
                                      <div class="testimonial-item">
                                          <img src="assets/img/artho/Knee replacement pic.png" class="img-fluid gImg1">
                                      </div>
-                                     <p class="image_tetx_inside">Knee replacement pic</p>
+                                     <p class="image_tetx_inside">Knee replacement  </p>
                                  </div>
 
 
@@ -312,7 +312,7 @@
                                      <div class="testimonial-item">
                                          <img src="assets/img/artho/Hip replacement pic.png" class="img-fluid gImg1">
                                      </div>
-                                     <p class="image_tetx_inside">Hip replacement pic</p>
+                                     <p class="image_tetx_inside">Hip replacement  </p>
                                  </div>
 
 
@@ -320,7 +320,7 @@
                                      <div class="testimonial-item">
                                          <img src="assets/img/artho/Shoulder replacement pic.png" class="img-fluid gImg1">
                                      </div>
-                                     <p class="image_tetx_inside">Shoulder replacement pic</p>
+                                     <p class="image_tetx_inside">Shoulder replacement  </p>
                                  </div>
 
                              </div>
@@ -1735,9 +1735,9 @@
 
                       <div class="social-links my-3">
                           <div class="d-flex justify-content-around">
-                              <a href="https://www.facebook.com/Artho360clinic" target="_blank" class="facebook me-3"><i class="bx bxl-facebook"></i></a>
-                              <a href="https://www.instagram.com/artho360clinic/" target="_blank" class="instagram me-3"><i class="bx bxl-instagram"></i></a>
-                              <a href="https://www.youtube.com/@artho360clinic" target="_blank" class="youtube"><i class="bx bxl-youtube"></i></a>
+                              <a href="https://www.facebook.com/Arthro360" target="_blank" class="facebook me-3"><i class="bx bxl-facebook"></i></a>
+                              <a href="https://www.instagram.com/arthro360/" target="_blank" class="instagram me-3"><i class="bx bxl-instagram"></i></a>
+                              <a href="https://www.youtube.com/@arthro360" target="_blank" class="youtube"><i class="bx bxl-youtube"></i></a>
                           </div>
                       </div>
 
@@ -1787,15 +1787,6 @@
       </div>
 
 
-
-
-
-
-
-
-
-
-
       <div
         class="footer-area-bottom theme-bg pb-3"
         style="background-color: rgb(1 83 157)   "
@@ -1811,7 +1802,7 @@
                     >Terms & conditions :
                   </a>
                   <a
-                    href="privacy.html"
+                    href="privacy.html" 
                     style="text-decoration: none; color: #ffffff"
                   >
                     Privacy & policy</a

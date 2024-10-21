@@ -354,9 +354,9 @@ $result = $conn->query($sql);
 
                       <div class="social-links my-3">
                           <div class="d-flex justify-content-around">
-                              <a href="https://www.facebook.com/Artho360clinic" target="_blank" class="facebook me-3"><i class="bx bxl-facebook"></i></a>
-                              <a href="https://www.instagram.com/artho360clinic/" target="_blank" class="instagram me-3"><i class="bx bxl-instagram"></i></a>
-                              <a href="https://www.youtube.com/@artho360clinic" target="_blank" class="youtube"><i class="bx bxl-youtube"></i></a>
+                              <a href="https://www.facebook.com/Arthro360" target="_blank" class="facebook me-3"><i class="bx bxl-facebook"></i></a>
+                              <a href="https://www.instagram.com/arthro360/" target="_blank" class="instagram me-3"><i class="bx bxl-instagram"></i></a>
+                              <a href="https://www.youtube.com/@arthro360" target="_blank" class="youtube"><i class="bx bxl-youtube"></i></a>
                           </div>
                       </div>
 
